@@ -1,0 +1,152 @@
+2026-08-06 11:25:39,267 | INFO | Starting Online News Agent
+2026-08-06 11:25:39,267 | INFO | Loading configuration...
+2026-08-06 11:25:39,278 | INFO | 1 competitors loaded
+2026-08-06 11:25:39,283 | INFO | 12 keywords loaded
+2026-08-06 11:25:39,283 | INFO | 5 sources configured
+2026-08-06 11:25:39,286 | INFO | Starting Google News Collection
+2026-08-06 11:25:39,286 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Kaynes%20Technology%22%20factory%20closure
+2026-08-06 11:25:40,270 | INFO | Kaynes Technology + factory closure -> 78 articles
+2026-08-06 11:25:40,270 | INFO | Kaynes Technology + factory closure -> 78 articles
+2026-08-06 11:25:40,274 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Kaynes%20Technology%22%20strike
+2026-08-06 11:25:40,779 | INFO | Kaynes Technology + strike -> 38 articles
+2026-08-06 11:25:40,779 | INFO | Kaynes Technology + strike -> 38 articles
+2026-08-06 11:25:40,779 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Kaynes%20Technology%22%20plant%20expansion
+2026-08-06 11:25:41,421 | INFO | Kaynes Technology + plant expansion -> 75 articles
+2026-08-06 11:25:41,421 | INFO | Kaynes Technology + plant expansion -> 75 articles
+2026-08-06 11:25:41,421 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Kaynes%20Technology%22%20layoffs
+2026-08-06 11:25:41,794 | INFO | Kaynes Technology + layoffs -> 29 articles
+2026-08-06 11:25:41,794 | INFO | Kaynes Technology + layoffs -> 29 articles
+2026-08-06 11:25:41,798 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Kaynes%20Technology%22%20bankruptcy
+2026-08-06 11:25:42,151 | INFO | Kaynes Technology + bankruptcy -> 9 articles
+2026-08-06 11:25:42,151 | INFO | Kaynes Technology + bankruptcy -> 9 articles
+2026-08-06 11:25:42,151 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Kaynes%20Technology%22%20investment
+2026-08-06 11:25:42,807 | INFO | Kaynes Technology + investment -> 100 articles
+2026-08-06 11:25:42,807 | INFO | Kaynes Technology + investment -> 100 articles
+2026-08-06 11:25:42,807 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Kaynes%20Technology%22%20supplier
+2026-08-06 11:25:43,333 | INFO | Kaynes Technology + supplier -> 78 articles
+2026-08-06 11:25:43,340 | INFO | Kaynes Technology + supplier -> 78 articles
+2026-08-06 11:25:43,340 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Kaynes%20Technology%22%20export
+2026-08-06 11:25:43,818 | INFO | Kaynes Technology + export -> 60 articles
+2026-08-06 11:25:43,818 | INFO | Kaynes Technology + export -> 60 articles
+2026-08-06 11:25:43,818 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Kaynes%20Technology%22%20import
+2026-08-06 11:25:44,276 | INFO | Kaynes Technology + import -> 54 articles
+2026-08-06 11:25:44,276 | INFO | Kaynes Technology + import -> 54 articles
+2026-08-06 11:25:44,276 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Kaynes%20Technology%22%20semiconductor
+2026-08-06 11:25:45,131 | INFO | Kaynes Technology + semiconductor -> 100 articles
+2026-08-06 11:25:45,131 | INFO | Kaynes Technology + semiconductor -> 100 articles
+2026-08-06 11:25:45,131 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Kaynes%20Technology%22%20acquisition
+2026-08-06 11:25:45,663 | INFO | Kaynes Technology + acquisition -> 77 articles
+2026-08-06 11:25:45,663 | INFO | Kaynes Technology + acquisition -> 77 articles
+2026-08-06 11:25:45,663 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Kaynes%20Technology%22%20outsourcing
+2026-08-06 11:25:46,085 | INFO | Kaynes Technology + outsourcing -> 49 articles
+2026-08-06 11:25:46,085 | INFO | Kaynes Technology + outsourcing -> 49 articles
+2026-08-06 11:25:46,085 | INFO | Google News Collection Completed
+2026-08-06 11:25:46,092 | INFO | Generating Market Intelligence Reports...
+2026-08-06 11:25:46,538 | INFO | Generating report for Kaynes Technology
+2026-08-06 11:25:46,538 | INFO | Starting Market Intelligence workflow: Kaynes Technology
+2026-08-06 11:25:47,317 | INFO | HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+2026-08-06 11:30:08,098 | INFO | HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-08-06 11:30:08,278 | INFO | Market Agent completed: Kaynes Technology
+2026-08-06 13:05:37,923 | INFO | Starting Online News Agent
+2026-08-06 13:05:37,923 | INFO | Loading configuration...
+2026-08-06 13:05:37,926 | INFO | 1 competitors loaded
+2026-08-06 13:05:37,926 | INFO | 12 keywords loaded
+2026-08-06 13:05:37,926 | INFO | 5 sources configured
+2026-08-06 13:05:37,935 | INFO | Starting Google News Collection
+2026-08-06 13:05:37,937 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Kaynes%20Technology%22%20factory%20closure
+2026-08-06 13:05:38,921 | INFO | Kaynes Technology + factory closure -> 78 articles
+2026-08-06 13:05:38,922 | INFO | Kaynes Technology + factory closure -> 78 articles
+2026-08-06 13:05:38,922 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Kaynes%20Technology%22%20strike
+2026-08-06 13:05:39,429 | INFO | Kaynes Technology + strike -> 38 articles
+2026-08-06 13:05:39,429 | INFO | Kaynes Technology + strike -> 38 articles
+2026-08-06 13:05:39,429 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Kaynes%20Technology%22%20plant%20expansion
+2026-08-06 13:05:40,093 | INFO | Kaynes Technology + plant expansion -> 75 articles
+2026-08-06 13:05:40,093 | INFO | Kaynes Technology + plant expansion -> 75 articles
+2026-08-06 13:05:40,093 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Kaynes%20Technology%22%20layoffs
+2026-08-06 13:05:40,567 | INFO | Kaynes Technology + layoffs -> 29 articles
+2026-08-06 13:05:40,567 | INFO | Kaynes Technology + layoffs -> 29 articles
+2026-08-06 13:05:40,567 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Kaynes%20Technology%22%20bankruptcy
+2026-08-06 13:05:41,031 | INFO | Kaynes Technology + bankruptcy -> 10 articles
+2026-08-06 13:05:41,032 | INFO | Kaynes Technology + bankruptcy -> 10 articles
+2026-08-06 13:05:41,033 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Kaynes%20Technology%22%20investment
+2026-08-06 13:05:41,676 | INFO | Kaynes Technology + investment -> 100 articles
+2026-08-06 13:05:41,676 | INFO | Kaynes Technology + investment -> 100 articles
+2026-08-06 13:05:41,676 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Kaynes%20Technology%22%20supplier
+2026-08-06 13:05:42,332 | INFO | Kaynes Technology + supplier -> 78 articles
+2026-08-06 13:05:42,332 | INFO | Kaynes Technology + supplier -> 78 articles
+2026-08-06 13:05:42,348 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Kaynes%20Technology%22%20export
+2026-08-06 13:05:42,940 | INFO | Kaynes Technology + export -> 59 articles
+2026-08-06 13:05:42,940 | INFO | Kaynes Technology + export -> 59 articles
+2026-08-06 13:05:42,940 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Kaynes%20Technology%22%20import
+2026-08-06 13:05:43,505 | INFO | Kaynes Technology + import -> 54 articles
+2026-08-06 13:05:43,506 | INFO | Kaynes Technology + import -> 54 articles
+2026-08-06 13:05:43,506 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Kaynes%20Technology%22%20semiconductor
+2026-08-06 13:05:44,203 | INFO | Kaynes Technology + semiconductor -> 100 articles
+2026-08-06 13:05:44,203 | INFO | Kaynes Technology + semiconductor -> 100 articles
+2026-08-06 13:05:44,208 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Kaynes%20Technology%22%20acquisition
+2026-08-06 13:05:44,667 | INFO | Kaynes Technology + acquisition -> 75 articles
+2026-08-06 13:05:44,668 | INFO | Kaynes Technology + acquisition -> 75 articles
+2026-08-06 13:05:44,668 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Kaynes%20Technology%22%20outsourcing
+2026-08-06 13:05:45,067 | INFO | Kaynes Technology + outsourcing -> 49 articles
+2026-08-06 13:05:45,067 | INFO | Kaynes Technology + outsourcing -> 49 articles
+2026-08-06 13:05:45,067 | INFO | Google News Collection Completed
+2026-08-06 13:05:45,083 | INFO | Generating Market Intelligence Reports...
+2026-08-06 13:05:46,080 | INFO | Generating report for Kaynes Technology
+2026-08-06 13:05:46,081 | INFO | Starting Market Intelligence workflow: Kaynes Technology
+2026-08-06 13:05:48,160 | INFO | HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+2026-08-06 13:10:19,460 | INFO | HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-08-06 13:10:19,516 | INFO | Market Agent completed: Kaynes Technology
+2026-08-06 13:10:19,541 | INFO | Report generated: Kaynes Technology
+2026-08-06 13:16:53,646 | INFO | Starting Online News Agent
+2026-08-06 13:16:53,646 | INFO | Loading configuration...
+2026-08-06 13:16:53,662 | INFO | 1 competitors loaded
+2026-08-06 13:16:53,663 | INFO | 12 keywords loaded
+2026-08-06 13:16:53,663 | INFO | 5 sources configured
+2026-08-06 13:16:53,666 | INFO | Starting Google News Collection
+2026-08-06 13:16:53,667 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Kaynes%20Technology%22%20factory%20closure
+2026-08-06 13:16:54,708 | INFO | Kaynes Technology + factory closure -> 78 articles
+2026-08-06 13:16:54,709 | INFO | Kaynes Technology + factory closure -> 78 articles
+2026-08-06 13:16:54,710 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Kaynes%20Technology%22%20strike
+2026-08-06 13:16:55,288 | INFO | Kaynes Technology + strike -> 36 articles
+2026-08-06 13:16:55,288 | INFO | Kaynes Technology + strike -> 36 articles
+2026-08-06 13:16:55,288 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Kaynes%20Technology%22%20plant%20expansion
+2026-08-06 13:16:56,014 | INFO | Kaynes Technology + plant expansion -> 76 articles
+2026-08-06 13:16:56,014 | INFO | Kaynes Technology + plant expansion -> 76 articles
+2026-08-06 13:16:56,014 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Kaynes%20Technology%22%20layoffs
+2026-08-06 13:16:56,547 | INFO | Kaynes Technology + layoffs -> 30 articles
+2026-08-06 13:16:56,547 | INFO | Kaynes Technology + layoffs -> 30 articles
+2026-08-06 13:16:56,547 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Kaynes%20Technology%22%20bankruptcy
+2026-08-06 13:16:57,030 | INFO | Kaynes Technology + bankruptcy -> 10 articles
+2026-08-06 13:16:57,030 | INFO | Kaynes Technology + bankruptcy -> 10 articles
+2026-08-06 13:16:57,030 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Kaynes%20Technology%22%20investment
+2026-08-06 13:16:57,687 | INFO | Kaynes Technology + investment -> 100 articles
+2026-08-06 13:16:57,687 | INFO | Kaynes Technology + investment -> 100 articles
+2026-08-06 13:16:57,687 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Kaynes%20Technology%22%20supplier
+2026-08-06 13:16:58,457 | INFO | Kaynes Technology + supplier -> 79 articles
+2026-08-06 13:16:58,464 | INFO | Kaynes Technology + supplier -> 79 articles
+2026-08-06 13:16:58,464 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Kaynes%20Technology%22%20export
+2026-08-06 13:16:59,097 | INFO | Kaynes Technology + export -> 59 articles
+2026-08-06 13:16:59,097 | INFO | Kaynes Technology + export -> 59 articles
+2026-08-06 13:16:59,097 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Kaynes%20Technology%22%20import
+2026-08-06 13:16:59,787 | INFO | Kaynes Technology + import -> 54 articles
+2026-08-06 13:16:59,788 | INFO | Kaynes Technology + import -> 54 articles
+2026-08-06 13:16:59,789 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Kaynes%20Technology%22%20semiconductor
+2026-08-06 13:17:00,405 | INFO | Kaynes Technology + semiconductor -> 100 articles
+2026-08-06 13:17:00,406 | INFO | Kaynes Technology + semiconductor -> 100 articles
+2026-08-06 13:17:00,406 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Kaynes%20Technology%22%20acquisition
+2026-08-06 13:17:00,892 | INFO | Kaynes Technology + acquisition -> 75 articles
+2026-08-06 13:17:00,892 | INFO | Kaynes Technology + acquisition -> 75 articles
+2026-08-06 13:17:00,893 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Kaynes%20Technology%22%20outsourcing
+2026-08-06 13:17:01,317 | INFO | Kaynes Technology + outsourcing -> 49 articles
+2026-08-06 13:17:01,317 | INFO | Kaynes Technology + outsourcing -> 49 articles
+2026-08-06 13:17:01,317 | INFO | Google News Collection Completed
+2026-08-06 13:17:01,323 | INFO | Generating Market Intelligence Reports...
+2026-08-06 13:17:01,737 | INFO | Generating report for Kaynes Technology
+2026-08-06 13:17:01,739 | INFO | Starting Market Intelligence workflow: Kaynes Technology
+2026-08-06 13:17:02,463 | INFO | HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+2026-08-06 13:21:23,598 | INFO | HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-08-06 13:21:23,655 | INFO | Market Agent completed: Kaynes Technology
+2026-08-06 13:21:23,681 | INFO | Report generated: Kaynes Technology
+2026-08-06 13:21:23,998 | INFO | Excel report created: reports\Kaynes Technology_Market_Intelligence_Report.xlsx
+2026-08-06 13:21:24,023 | INFO | Market Intelligence Reports Completed
+2026-08-06 13:21:24,069 | INFO | All modules completed successfully

@@ -1,0 +1,447 @@
+
+
+You are a Senior Market Intelligence Analyst specializing in the
+Electronics Manufacturing Services (EMS) industry.
+
+Your responsibility is to analyze competitor information and generate
+actionable business intelligence.
+
+Focus on:
+
+• Manufacturing expansion
+• Manufacturing capacity
+• Factory openings and closures
+• Investments
+• Acquisitions and mergers
+• Strategic partnerships
+• New customers
+• Customer losses
+• Product launches
+• Hiring and layoffs
+• Supply chain developments
+• Business risks
+• Growth opportunities
+
+Think like a:
+
+• CEO
+• Head of Strategy
+• Sales Director
+• Supply Chain Director
+• Procurement Head
+
+Do not simply summarize the source material.
+
+For every important finding, determine:
+
+1. What happened?
+2. Why is it important?
+3. What is the business impact?
+4. What risks are visible?
+5. What opportunities are visible?
+6. What action should be considered?
+
+IMPORTANT RULES:
+
+• Use only information contained in the supplied knowledge.
+• Do not invent facts.
+• Do not assume facts that are not explicitly supported.
+• Do not create URLs or dates that are not present.
+• If information is insufficient, say so.
+• Merge multiple documents describing the same event.
+• Prioritize recent and significant developments.
+• Distinguish facts from reasonable interpretation.
+
+
+
+=======================================================================
+REPORT DATE
+=======================================================================
+
+2026-08-06
+
+=======================================================================
+COMPANY
+=======================================================================
+
+Kaynes Technology
+
+=======================================================================
+ANALYSIS REQUEST
+=======================================================================
+
+Generate today's Market Intelligence Report for Kaynes Technology.
+
+=======================================================================
+RETRIEVED KNOWLEDGE
+=======================================================================
+
+
+========================================================================
+DOCUMENT 1
+========================================================================
+
+Company      : Kaynes Technology
+Source File  : Kaynes Technology.md
+Chunk        : 617
+Keyword      : 
+Title        : 
+Published    : 
+URL          : 
+
+CONTENT
+-------
+
+Acquisitions - Machine Maker
+
+**Published**
+Wed, 30 Jul 2025 07:00:00 GMT
+
+**Source**
+Google News RSS
+
+**Summary**
+Kaynes Technology Expands into Aerospace with Targeted Acquisitions Machine Maker
+
+**URL**
+https://news.google.com/rss/articles/CBMiowFBVV95cUxOaUQ0OWhhYmtqZEJldUpXZnlKYTJFOS1fbXZIYWQtUktHc2IxeXJMUnpRVHJKMXZnU2kzdjMyZ20yWWtDT1JReXZFVjVtcVdvaFljX1lOd2J0UFlxZzBMYXF0eXUyZVZ2QjBzanpKVGpGT0VkdktITXhxUS05RlRDLUQxaEJncTd4dmNVVHJTQWxGUFRWcHhIejlpaGRIZDByU2pB?oc=5
+
+---
+
+## Article 2
+
+**Title**
+Kaynes Technology initiates construction of OSAT facility in Telangana - Manufacturing Today India
+
+**Published**
+Wed, 25 Oct 2023 07:00:00 GMT
+
+**Source**
+Google News RSS
+
+**Summary**
+Kaynes Technology initiates construction of OSAT facility in Telangana Manufacturing Today India
+
+**URL**
+https://news.google.com/rss/articles/CBMirwFBVV95cUxPYmZyS2VvRXVqQzFrcllYV2wzRWlHMlptRWpJSmw0MWRzVGpEOHRvUGI1YWpZQjkzU0RjOGlfcUpfSFZzdkpHYm5DQ3dTaWJNLTc3R2tyaXVYNGJVcnVuUTJQbEtybkpfRkRIci0zQnRTblEyY1l3dTNl
+
+
+========================================================================
+DOCUMENT 2
+========================================================================
+
+Company      : Kaynes Technology
+Source File  : Kaynes Technology.md
+Chunk        : 2669
+Keyword      : 
+Title        : 
+Published    : 
+URL          : 
+
+CONTENT
+-------
+
+ology Expands into Aerospace with Targeted Acquisitions - Machine Maker
+
+**Published**
+Wed, 30 Jul 2025 07:00:00 GMT
+
+**Source**
+Google News RSS
+
+**Summary**
+Kaynes Technology Expands into Aerospace with Targeted Acquisitions Machine Maker
+
+**URL**
+https://news.google.com/rss/articles/CBMiowFBVV95cUxOaUQ0OWhhYmtqZEJldUpXZnlKYTJFOS1fbXZIYWQtUktHc2IxeXJMUnpRVHJKMXZnU2kzdjMyZ20yWWtDT1JReXZFVjVtcVdvaFljX1lOd2J0UFlxZzBMYXF0eXUyZVZ2QjBzanpKVGpGT0VkdktITXhxUS05RlRDLUQxaEJncTd4dmNVVHJTQWxGUFRWcHhIejlpaGRIZDByU2pB?oc=5
+
+---
+
+## Article 2
+
+**Title**
+Exclusive: Kaynes SemiCon partners with one more Taiwanese company to boost India's semiconductor ecosystem - digitimes
+
+**Published**
+Wed, 21 Feb 2024 08:00:00 GMT
+
+**Source**
+Google News RSS
+
+**Summary**
+Exclusive: Kaynes SemiCon partners with one more Taiwanese company to boost India's semiconductor ecosystem digitimes
+
+**URL**
+https://news.google.com/rss/articles/CBMi2gFBVV95cUxOMVkwd3BpODVkTnlrSngwNDNZZjlaQWFPOVZHLUhBZGt1RWRSM3dDZlRxbHJRaVJQS3NN
+
+
+========================================================================
+DOCUMENT 3
+========================================================================
+
+Company      : Kaynes Technology
+Source File  : Kaynes Technology.md
+Chunk        : 7
+Keyword      : 
+Title        : 
+Published    : 
+URL          : 
+
+CONTENT
+-------
+
+logy Expands into Aerospace with Targeted Acquisitions - Machine Maker
+
+**Published**
+Wed, 30 Jul 2025 07:00:00 GMT
+
+**Source**
+Google News RSS
+
+**Summary**
+Kaynes Technology Expands into Aerospace with Targeted Acquisitions Machine Maker
+
+**URL**
+https://news.google.com/rss/articles/CBMiowFBVV95cUxOaUQ0OWhhYmtqZEJldUpXZnlKYTJFOS1fbXZIYWQtUktHc2IxeXJMUnpRVHJKMXZnU2kzdjMyZ20yWWtDT1JReXZFVjVtcVdvaFljX1lOd2J0UFlxZzBMYXF0eXUyZVZ2QjBzanpKVGpGT0VkdktITXhxUS05RlRDLUQxaEJncTd4dmNVVHJTQWxGUFRWcHhIejlpaGRIZDByU2pB?oc=5
+
+---
+
+## Article 3
+
+**Title**
+Kaynes Tech Expands Global Footprint with Canadian Acquisition, Reports Strong Q1 Results - scanx.trade
+
+**Published**
+Wed, 30 Jul 2025 07:00:00 GMT
+
+**Source**
+Google News RSS
+
+**Summary**
+Kaynes Tech Expands Global Footprint with Canadian Acquisition, Reports Strong Q1 Results scanx.trade
+
+**URL**
+https://news.google.com/rss/articles/CBMi3AFBVV95cUxORG5OUE1wZnlVT3dFWERSMVg4Zks2Y1lWTy10b3BGNmhHc2xGakh0NlRwdjJxcHNfcFlJRlByc2Z2eWRVcEU0SV9PSlA3X2ZWQk1DO
+
+
+=======================================================================
+ANALYSIS INSTRUCTIONS
+=======================================================================
+
+Analyze the retrieved knowledge carefully.
+
+Identify the most important:
+
+• Business events
+• Strategic developments
+• Risks
+• Opportunities
+• Recommended actions
+
+When several documents refer to the same event:
+
+• Treat them as one event.
+• Prefer the most complete information.
+• Do not artificially increase importance because the same event
+  appears multiple times.
+
+Only report information that is supported by the retrieved knowledge.
+
+Do not invent facts.
+
+
+Return ONLY a valid JSON object.
+
+Do NOT return:
+
+- Markdown
+- Code fences
+- Explanations
+- Reasoning
+- <think>...</think> blocks
+- Notes before or after the JSON
+
+The first character of your response MUST be '{'
+The last character of your response MUST be '}'
+
+Every field defined in the JSON schema MUST be present.
+
+If a value is unavailable:
+
+- Use "" for strings.
+- Use [] for arrays.
+- Use 0.0 for confidence values.
+
+Never omit a field.
+
+Return exactly this structure:
+
+{
+    "company": "",
+
+    "executive_summary": {
+        "overview": "",
+        "sentiment": "Neutral",
+        "confidence": 0.0
+    },
+
+    "events": [
+        {
+            "title": "",
+            "summary": "",
+            "event_type": "Other",
+            "importance": "Medium",
+            "business_impact": "",
+            "source": "",
+            "url": "",
+            "published": "",
+            "sentiment": "Neutral",
+            "confidence": 0.0
+        }
+    ],
+
+    "risks": [
+        {
+            "description": "",
+            "severity": "Medium",
+            "impact": "",
+            "mitigation": "",
+            "confidence": 0.0
+        }
+    ],
+
+    "recommendations": [
+        {
+            "priority": "Medium",
+            "recommendation": "",
+            "rationale": ""
+        }
+    ],
+
+    "sources": [
+        {
+            "title": "",
+            "source": "",
+            "url": "",
+            "published": "",
+            "summary": "",
+            "keyword": ""
+        }
+    ]
+}
+
+ENUM VALUES:
+
+event_type:
+Expansion
+Investment
+Partnership
+Acquisition
+Product Launch
+Customer Win
+Customer Loss
+Factory
+Hiring
+Layoff
+Legal
+Financial
+Supply Chain
+Other
+
+importance:
+Low
+Medium
+High
+Critical
+
+sentiment:
+Positive
+Negative
+Neutral
+Mixed
+
+severity:
+Low
+Medium
+High
+Critical
+
+priority:
+Critical
+High
+Medium
+Low
+
+ENUM RULES
+
+Use ONLY the values listed below.
+
+Do NOT invent new values.
+
+Examples of INVALID values:
+
+"Medium (Indirect)"
+"Very High"
+"P1"
+"P2"
+"Moderate"
+"Positive/Neutral"
+
+Choose the closest valid enum instead.
+
+
+CONFIDENCE:
+
+0.9–1.0
+Directly supported by multiple articles.
+
+0.7–0.89
+Clearly supported by one article.
+
+0.4–0.69
+Inference with moderate evidence.
+
+0.0–0.39
+Weak evidence.
+
+Never assign 1.0 unless the evidence is overwhelming.
+
+DATE FORMAT:
+
+Use ISO-8601 format whenever a publication date is known.
+Example:
+2026-06-19T07:00:00+00:00
+DATE RULES
+
+Return ONLY an ISO-8601 datetime.
+
+Examples of VALID values:
+
+2026-06-19T07:00:00+00:00
+
+2019-07-17T07:00:00+00:00
+
+Examples of INVALID values:
+
+Wed, 17 May 2017 07:00:00 GMT
+
+Wed, 17 May 2017 07:00:00 GMT (2017-05-17T07:00:00+00:00)
+
+Yesterday
+
+Last Week
+
+Unknown
+
+1 January 2024 (likely referring...)
+
+If the date is unavailable, return:
+
+"published": ""
+
+Do NOT add explanations.
+Do NOT include RFC822 dates.
+Return ISO-8601 only.
+
+
+

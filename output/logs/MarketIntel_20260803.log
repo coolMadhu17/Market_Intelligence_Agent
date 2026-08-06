@@ -1,0 +1,305 @@
+2026-08-03 13:43:56,639 | INFO | Starting Online News Agent
+2026-08-03 13:43:56,640 | INFO | Loading configuration...
+2026-08-03 13:43:56,647 | INFO | 1 competitors loaded
+2026-08-03 13:43:56,648 | INFO | 12 keywords loaded
+2026-08-03 13:43:56,648 | INFO | 5 sources configured
+2026-08-03 13:43:56,651 | INFO | Starting Google News Collection
+2026-08-03 13:43:56,651 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Flex%22%20factory%20closure
+2026-08-03 13:43:57,551 | INFO | Flex + factory closure -> 48 articles
+2026-08-03 13:43:57,551 | INFO | Flex + factory closure -> 48 articles
+2026-08-03 13:43:57,552 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Flex%22%20strike
+2026-08-03 13:43:58,253 | INFO | Flex + strike -> 75 articles
+2026-08-03 13:43:58,253 | INFO | Flex + strike -> 75 articles
+2026-08-03 13:43:58,253 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Flex%22%20plant%20expansion
+2026-08-03 13:43:59,053 | INFO | Flex + plant expansion -> 64 articles
+2026-08-03 13:43:59,053 | INFO | Flex + plant expansion -> 64 articles
+2026-08-03 13:43:59,054 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Flex%22%20layoffs
+2026-08-03 13:43:59,717 | INFO | Flex + layoffs -> 57 articles
+2026-08-03 13:43:59,717 | INFO | Flex + layoffs -> 57 articles
+2026-08-03 13:43:59,718 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Flex%22%20bankruptcy
+2026-08-03 13:44:00,418 | INFO | Flex + bankruptcy -> 56 articles
+2026-08-03 13:44:00,418 | INFO | Flex + bankruptcy -> 56 articles
+2026-08-03 13:44:00,419 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Flex%22%20investment
+2026-08-03 13:44:01,181 | INFO | Flex + investment -> 100 articles
+2026-08-03 13:44:01,182 | INFO | Flex + investment -> 100 articles
+2026-08-03 13:44:01,182 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Flex%22%20supplier
+2026-08-03 13:44:01,849 | INFO | Flex + supplier -> 66 articles
+2026-08-03 13:44:01,849 | INFO | Flex + supplier -> 66 articles
+2026-08-03 13:44:01,850 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Flex%22%20export
+2026-08-03 13:44:02,611 | INFO | Flex + export -> 63 articles
+2026-08-03 13:44:02,611 | INFO | Flex + export -> 63 articles
+2026-08-03 13:44:02,612 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Flex%22%20import
+2026-08-03 13:44:03,170 | INFO | Flex + import -> 47 articles
+2026-08-03 13:44:03,170 | INFO | Flex + import -> 47 articles
+2026-08-03 13:44:03,171 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Flex%22%20semiconductor
+2026-08-03 13:44:03,617 | INFO | Flex + semiconductor -> 59 articles
+2026-08-03 13:44:03,617 | INFO | Flex + semiconductor -> 59 articles
+2026-08-03 13:44:03,618 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Flex%22%20acquisition
+2026-08-03 13:44:04,259 | INFO | Flex + acquisition -> 100 articles
+2026-08-03 13:44:04,259 | INFO | Flex + acquisition -> 100 articles
+2026-08-03 13:44:04,259 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Flex%22%20outsourcing
+2026-08-03 13:44:04,761 | INFO | Flex + outsourcing -> 50 articles
+2026-08-03 13:44:04,762 | INFO | Flex + outsourcing -> 50 articles
+2026-08-03 13:44:04,762 | INFO | Google News Collection Completed
+2026-08-03 13:44:04,766 | INFO | Generating Market Intelligence Reports...
+2026-08-03 13:44:05,788 | INFO | Generating report for Flex
+2026-08-03 13:44:05,789 | INFO | Starting Market Intelligence workflow: Flex
+2026-08-03 13:44:06,542 | INFO | HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+2026-08-03 13:54:11,999 | INFO | HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-08-03 13:54:12,075 | INFO | Market Agent completed: Flex
+2026-08-03 13:54:12,089 | INFO | Report generated: Flex
+2026-08-03 13:54:12,442 | INFO | Excel report created: reports\Flex_Market_Intelligence_Report.xlsx
+2026-08-03 13:54:12,468 | INFO | Market Intelligence Reports Completed
+2026-08-03 13:54:12,502 | INFO | All modules completed successfully
+2026-08-03 14:12:51,371 | INFO | Starting Online News Agent
+2026-08-03 14:12:51,372 | INFO | Loading configuration...
+2026-08-03 14:12:51,372 | INFO | 1 competitors loaded
+2026-08-03 14:12:51,372 | INFO | 12 keywords loaded
+2026-08-03 14:12:51,372 | INFO | 5 sources configured
+2026-08-03 14:12:51,384 | INFO | Starting Google News Collection
+2026-08-03 14:12:51,385 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Flextronics%22%20factory%20closure
+2026-08-03 14:12:52,129 | INFO | Flextronics + factory closure -> 33 articles
+2026-08-03 14:12:52,129 | INFO | Flextronics + factory closure -> 33 articles
+2026-08-03 14:12:52,129 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Flextronics%22%20strike
+2026-08-03 14:12:52,551 | INFO | Flextronics + strike -> 21 articles
+2026-08-03 14:12:52,552 | INFO | Flextronics + strike -> 21 articles
+2026-08-03 14:12:52,552 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Flextronics%22%20plant%20expansion
+2026-08-03 14:12:53,036 | INFO | Flextronics + plant expansion -> 24 articles
+2026-08-03 14:12:53,036 | INFO | Flextronics + plant expansion -> 24 articles
+2026-08-03 14:12:53,037 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Flextronics%22%20layoffs
+2026-08-03 14:12:53,329 | INFO | Flextronics + layoffs -> 10 articles
+2026-08-03 14:12:53,329 | INFO | Flextronics + layoffs -> 10 articles
+2026-08-03 14:12:53,329 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Flextronics%22%20bankruptcy
+2026-08-03 14:12:53,616 | INFO | Flextronics + bankruptcy -> 11 articles
+2026-08-03 14:12:53,616 | INFO | Flextronics + bankruptcy -> 11 articles
+2026-08-03 14:12:53,616 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Flextronics%22%20investment
+2026-08-03 14:12:54,054 | INFO | Flextronics + investment -> 47 articles
+2026-08-03 14:12:54,054 | INFO | Flextronics + investment -> 47 articles
+2026-08-03 14:12:54,054 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Flextronics%22%20supplier
+2026-08-03 14:12:54,450 | INFO | Flextronics + supplier -> 40 articles
+2026-08-03 14:12:54,450 | INFO | Flextronics + supplier -> 40 articles
+2026-08-03 14:12:54,450 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Flextronics%22%20export
+2026-08-03 14:12:54,834 | INFO | Flextronics + export -> 23 articles
+2026-08-03 14:12:54,834 | INFO | Flextronics + export -> 23 articles
+2026-08-03 14:12:54,834 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Flextronics%22%20import
+2026-08-03 14:12:55,217 | INFO | Flextronics + import -> 17 articles
+2026-08-03 14:12:55,217 | INFO | Flextronics + import -> 17 articles
+2026-08-03 14:12:55,217 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Flextronics%22%20semiconductor
+2026-08-03 14:12:55,781 | INFO | Flextronics + semiconductor -> 31 articles
+2026-08-03 14:12:55,781 | INFO | Flextronics + semiconductor -> 31 articles
+2026-08-03 14:12:55,781 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Flextronics%22%20acquisition
+2026-08-03 14:12:56,164 | INFO | Flextronics + acquisition -> 35 articles
+2026-08-03 14:12:56,164 | INFO | Flextronics + acquisition -> 35 articles
+2026-08-03 14:12:56,164 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Flextronics%22%20outsourcing
+2026-08-03 14:12:58,886 | INFO | Flextronics + outsourcing -> 17 articles
+2026-08-03 14:12:58,886 | INFO | Flextronics + outsourcing -> 17 articles
+2026-08-03 14:12:58,886 | INFO | Google News Collection Completed
+2026-08-03 14:12:58,886 | INFO | Generating Market Intelligence Reports...
+2026-08-03 14:12:59,302 | INFO | Generating report for Flextronics
+2026-08-03 14:12:59,302 | INFO | Starting Market Intelligence workflow: Flextronics
+2026-08-03 14:13:00,024 | INFO | HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+2026-08-03 14:23:34,765 | INFO | HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-08-03 14:23:34,827 | INFO | Market Agent completed: Flextronics
+2026-08-03 14:52:41,005 | INFO | Starting Online News Agent
+2026-08-03 14:52:41,006 | INFO | Loading configuration...
+2026-08-03 14:52:41,015 | INFO | 1 competitors loaded
+2026-08-03 14:52:41,015 | INFO | 12 keywords loaded
+2026-08-03 14:52:41,015 | INFO | 5 sources configured
+2026-08-03 14:52:41,019 | INFO | Starting Google News Collection
+2026-08-03 14:52:41,019 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Flextronics%22%20factory%20closure
+2026-08-03 14:52:41,827 | INFO | Flextronics + factory closure -> 32 articles
+2026-08-03 14:52:41,827 | INFO | Flextronics + factory closure -> 32 articles
+2026-08-03 14:52:41,828 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Flextronics%22%20strike
+2026-08-03 14:52:42,288 | INFO | Flextronics + strike -> 21 articles
+2026-08-03 14:52:42,288 | INFO | Flextronics + strike -> 21 articles
+2026-08-03 14:52:42,289 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Flextronics%22%20plant%20expansion
+2026-08-03 14:52:42,729 | INFO | Flextronics + plant expansion -> 24 articles
+2026-08-03 14:52:42,729 | INFO | Flextronics + plant expansion -> 24 articles
+2026-08-03 14:52:42,730 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Flextronics%22%20layoffs
+2026-08-03 14:52:43,332 | INFO | Flextronics + layoffs -> 10 articles
+2026-08-03 14:52:43,332 | INFO | Flextronics + layoffs -> 10 articles
+2026-08-03 14:52:43,333 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Flextronics%22%20bankruptcy
+2026-08-03 14:52:43,724 | INFO | Flextronics + bankruptcy -> 11 articles
+2026-08-03 14:52:43,725 | INFO | Flextronics + bankruptcy -> 11 articles
+2026-08-03 14:52:43,726 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Flextronics%22%20investment
+2026-08-03 14:52:44,269 | INFO | Flextronics + investment -> 47 articles
+2026-08-03 14:52:44,269 | INFO | Flextronics + investment -> 47 articles
+2026-08-03 14:52:44,270 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Flextronics%22%20supplier
+2026-08-03 14:52:44,726 | INFO | Flextronics + supplier -> 40 articles
+2026-08-03 14:52:44,726 | INFO | Flextronics + supplier -> 40 articles
+2026-08-03 14:52:44,727 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Flextronics%22%20export
+2026-08-03 14:52:45,163 | INFO | Flextronics + export -> 23 articles
+2026-08-03 14:52:45,163 | INFO | Flextronics + export -> 23 articles
+2026-08-03 14:52:45,164 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Flextronics%22%20import
+2026-08-03 14:52:45,590 | INFO | Flextronics + import -> 17 articles
+2026-08-03 14:52:45,590 | INFO | Flextronics + import -> 17 articles
+2026-08-03 14:52:45,590 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Flextronics%22%20semiconductor
+2026-08-03 14:52:46,001 | INFO | Flextronics + semiconductor -> 31 articles
+2026-08-03 14:52:46,001 | INFO | Flextronics + semiconductor -> 31 articles
+2026-08-03 14:52:46,002 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Flextronics%22%20acquisition
+2026-08-03 14:52:46,364 | INFO | Flextronics + acquisition -> 35 articles
+2026-08-03 14:52:46,364 | INFO | Flextronics + acquisition -> 35 articles
+2026-08-03 14:52:46,365 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Flextronics%22%20outsourcing
+2026-08-03 14:52:46,781 | INFO | Flextronics + outsourcing -> 17 articles
+2026-08-03 14:52:46,781 | INFO | Flextronics + outsourcing -> 17 articles
+2026-08-03 14:52:46,782 | INFO | Google News Collection Completed
+2026-08-03 14:52:46,784 | INFO | Generating Market Intelligence Reports...
+2026-08-03 14:52:47,238 | INFO | Generating report for Flextronics
+2026-08-03 14:52:47,239 | INFO | Starting Market Intelligence workflow: Flextronics
+2026-08-03 14:52:47,945 | INFO | HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+2026-08-03 15:03:24,327 | INFO | HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-08-03 15:03:24,391 | INFO | Market Agent completed: Flextronics
+2026-08-03 16:33:49,545 | INFO | Starting Online News Agent
+2026-08-03 16:33:49,546 | INFO | Loading configuration...
+2026-08-03 16:33:49,555 | INFO | 1 competitors loaded
+2026-08-03 16:33:49,556 | INFO | 12 keywords loaded
+2026-08-03 16:33:49,556 | INFO | 5 sources configured
+2026-08-03 16:33:49,559 | INFO | Starting Google News Collection
+2026-08-03 16:33:49,560 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Flextronics%22%20factory%20closure
+2026-08-03 16:33:50,341 | INFO | Flextronics + factory closure -> 33 articles
+2026-08-03 16:33:50,342 | INFO | Flextronics + factory closure -> 33 articles
+2026-08-03 16:33:50,343 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Flextronics%22%20strike
+2026-08-03 16:33:50,793 | INFO | Flextronics + strike -> 21 articles
+2026-08-03 16:33:50,793 | INFO | Flextronics + strike -> 21 articles
+2026-08-03 16:33:50,795 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Flextronics%22%20plant%20expansion
+2026-08-03 16:33:51,478 | INFO | Flextronics + plant expansion -> 24 articles
+2026-08-03 16:33:51,478 | INFO | Flextronics + plant expansion -> 24 articles
+2026-08-03 16:33:51,479 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Flextronics%22%20layoffs
+2026-08-03 16:33:51,899 | INFO | Flextronics + layoffs -> 10 articles
+2026-08-03 16:33:51,899 | INFO | Flextronics + layoffs -> 10 articles
+2026-08-03 16:33:51,900 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Flextronics%22%20bankruptcy
+2026-08-03 16:33:52,316 | INFO | Flextronics + bankruptcy -> 11 articles
+2026-08-03 16:33:52,316 | INFO | Flextronics + bankruptcy -> 11 articles
+2026-08-03 16:33:52,316 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Flextronics%22%20investment
+2026-08-03 16:33:52,866 | INFO | Flextronics + investment -> 47 articles
+2026-08-03 16:33:52,867 | INFO | Flextronics + investment -> 47 articles
+2026-08-03 16:33:52,867 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Flextronics%22%20supplier
+2026-08-03 16:33:53,350 | INFO | Flextronics + supplier -> 40 articles
+2026-08-03 16:33:53,351 | INFO | Flextronics + supplier -> 40 articles
+2026-08-03 16:33:53,351 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Flextronics%22%20export
+2026-08-03 16:33:53,704 | INFO | Flextronics + export -> 22 articles
+2026-08-03 16:33:53,705 | INFO | Flextronics + export -> 22 articles
+2026-08-03 16:33:53,705 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Flextronics%22%20import
+2026-08-03 16:33:54,089 | INFO | Flextronics + import -> 18 articles
+2026-08-03 16:33:54,090 | INFO | Flextronics + import -> 18 articles
+2026-08-03 16:33:54,091 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Flextronics%22%20semiconductor
+2026-08-03 16:33:54,723 | INFO | Flextronics + semiconductor -> 31 articles
+2026-08-03 16:33:54,723 | INFO | Flextronics + semiconductor -> 31 articles
+2026-08-03 16:33:54,724 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Flextronics%22%20acquisition
+2026-08-03 16:33:55,088 | INFO | Flextronics + acquisition -> 34 articles
+2026-08-03 16:33:55,089 | INFO | Flextronics + acquisition -> 34 articles
+2026-08-03 16:33:55,090 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Flextronics%22%20outsourcing
+2026-08-03 16:33:55,490 | INFO | Flextronics + outsourcing -> 17 articles
+2026-08-03 16:33:55,490 | INFO | Flextronics + outsourcing -> 17 articles
+2026-08-03 16:33:55,490 | INFO | Google News Collection Completed
+2026-08-03 16:33:55,494 | INFO | Generating Market Intelligence Reports...
+2026-08-03 16:33:56,536 | INFO | Generating report for Flextronics
+2026-08-03 16:33:56,536 | INFO | Starting Market Intelligence workflow: Flextronics
+2026-08-03 16:33:58,655 | INFO | HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+2026-08-03 16:40:46,515 | INFO | HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-08-03 16:40:46,573 | INFO | Market Agent completed: Flextronics
+2026-08-03 16:40:46,573 | INFO | Report generated: Flextronics
+2026-08-03 16:40:46,883 | INFO | Excel report created: reports\Flextronics_Market_Intelligence_Report.xlsx
+2026-08-03 16:40:46,900 | INFO | Market Intelligence Reports Completed
+2026-08-03 16:40:46,927 | INFO | All modules completed successfully
+2026-08-03 20:17:21,355 | INFO | Starting Online News Agent
+2026-08-03 20:17:21,356 | INFO | Loading configuration...
+2026-08-03 20:17:21,363 | INFO | 1 competitors loaded
+2026-08-03 20:17:21,364 | INFO | 12 keywords loaded
+2026-08-03 20:17:21,364 | INFO | 5 sources configured
+2026-08-03 20:17:21,367 | INFO | Starting Google News Collection
+2026-08-03 20:17:21,368 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Avalon%20Technologies%22%20factory%20closure
+2026-08-03 20:17:22,072 | INFO | Avalon Technologies + factory closure -> 12 articles
+2026-08-03 20:17:22,072 | INFO | Avalon Technologies + factory closure -> 12 articles
+2026-08-03 20:17:22,073 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Avalon%20Technologies%22%20strike
+2026-08-03 20:17:22,537 | INFO | Avalon Technologies + strike -> 2 articles
+2026-08-03 20:17:22,537 | INFO | Avalon Technologies + strike -> 2 articles
+2026-08-03 20:17:22,538 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Avalon%20Technologies%22%20plant%20expansion
+2026-08-03 20:17:22,979 | INFO | Avalon Technologies + plant expansion -> 9 articles
+2026-08-03 20:17:22,979 | INFO | Avalon Technologies + plant expansion -> 9 articles
+2026-08-03 20:17:22,980 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Avalon%20Technologies%22%20layoffs
+2026-08-03 20:17:23,372 | INFO | Avalon Technologies + layoffs -> 2 articles
+2026-08-03 20:17:23,372 | INFO | Avalon Technologies + layoffs -> 2 articles
+2026-08-03 20:17:23,373 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Avalon%20Technologies%22%20bankruptcy
+2026-08-03 20:17:23,786 | INFO | Avalon Technologies + bankruptcy -> 1 articles
+2026-08-03 20:17:23,787 | INFO | Avalon Technologies + bankruptcy -> 1 articles
+2026-08-03 20:17:23,787 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Avalon%20Technologies%22%20investment
+2026-08-03 20:17:24,456 | INFO | Avalon Technologies + investment -> 68 articles
+2026-08-03 20:17:24,456 | INFO | Avalon Technologies + investment -> 68 articles
+2026-08-03 20:17:24,457 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Avalon%20Technologies%22%20supplier
+2026-08-03 20:17:24,971 | INFO | Avalon Technologies + supplier -> 13 articles
+2026-08-03 20:17:24,972 | INFO | Avalon Technologies + supplier -> 13 articles
+2026-08-03 20:17:24,972 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Avalon%20Technologies%22%20export
+2026-08-03 20:17:25,540 | INFO | Avalon Technologies + export -> 46 articles
+2026-08-03 20:17:25,541 | INFO | Avalon Technologies + export -> 46 articles
+2026-08-03 20:17:25,541 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Avalon%20Technologies%22%20import
+2026-08-03 20:17:25,840 | INFO | Avalon Technologies + import -> 14 articles
+2026-08-03 20:17:25,840 | INFO | Avalon Technologies + import -> 14 articles
+2026-08-03 20:17:25,840 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Avalon%20Technologies%22%20semiconductor
+2026-08-03 20:17:26,381 | INFO | Avalon Technologies + semiconductor -> 30 articles
+2026-08-03 20:17:26,382 | INFO | Avalon Technologies + semiconductor -> 30 articles
+2026-08-03 20:17:26,382 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Avalon%20Technologies%22%20acquisition
+2026-08-03 20:17:26,751 | INFO | Avalon Technologies + acquisition -> 20 articles
+2026-08-03 20:17:26,751 | INFO | Avalon Technologies + acquisition -> 20 articles
+2026-08-03 20:17:26,752 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Avalon%20Technologies%22%20outsourcing
+2026-08-03 20:17:27,189 | INFO | Avalon Technologies + outsourcing -> 12 articles
+2026-08-03 20:17:27,190 | INFO | Avalon Technologies + outsourcing -> 12 articles
+2026-08-03 20:17:27,190 | INFO | Google News Collection Completed
+2026-08-03 20:17:27,192 | INFO | Generating Market Intelligence Reports...
+2026-08-03 20:17:28,145 | INFO | Generating report for Avalon Technologies
+2026-08-03 20:17:28,145 | INFO | Starting Market Intelligence workflow: Avalon Technologies
+2026-08-03 20:17:30,223 | INFO | HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+2026-08-03 20:26:00,505 | INFO | HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-08-03 20:26:00,584 | INFO | Market Agent completed: Avalon Technologies
+2026-08-03 20:26:00,603 | INFO | Report generated: Avalon Technologies
+2026-08-03 20:26:00,948 | INFO | Excel report created: reports\Avalon Technologies_Market_Intelligence_Report.xlsx
+2026-08-03 20:26:00,971 | INFO | Market Intelligence Reports Completed
+2026-08-03 20:26:01,017 | INFO | All modules completed successfully
+2026-08-03 23:23:58,715 | INFO | Starting Online News Agent
+2026-08-03 23:23:58,717 | INFO | Loading configuration...
+2026-08-03 23:23:58,726 | INFO | 1 competitors loaded
+2026-08-03 23:23:58,727 | INFO | 12 keywords loaded
+2026-08-03 23:23:58,727 | INFO | 5 sources configured
+2026-08-03 23:23:58,731 | INFO | Starting Google News Collection
+2026-08-03 23:23:58,733 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Avalon%20Technologies%22%20factory%20closure
+2026-08-03 23:23:59,537 | INFO | Avalon Technologies + factory closure -> 12 articles
+2026-08-03 23:23:59,537 | INFO | Avalon Technologies + factory closure -> 12 articles
+2026-08-03 23:23:59,538 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Avalon%20Technologies%22%20strike
+2026-08-03 23:23:59,946 | INFO | Avalon Technologies + strike -> 2 articles
+2026-08-03 23:23:59,946 | INFO | Avalon Technologies + strike -> 2 articles
+2026-08-03 23:23:59,947 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Avalon%20Technologies%22%20plant%20expansion
+2026-08-03 23:24:00,407 | INFO | Avalon Technologies + plant expansion -> 9 articles
+2026-08-03 23:24:00,407 | INFO | Avalon Technologies + plant expansion -> 9 articles
+2026-08-03 23:24:00,408 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Avalon%20Technologies%22%20layoffs
+2026-08-03 23:24:00,767 | INFO | Avalon Technologies + layoffs -> 2 articles
+2026-08-03 23:24:00,768 | INFO | Avalon Technologies + layoffs -> 2 articles
+2026-08-03 23:24:00,768 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Avalon%20Technologies%22%20bankruptcy
+2026-08-03 23:24:01,137 | INFO | Avalon Technologies + bankruptcy -> 1 articles
+2026-08-03 23:24:01,137 | INFO | Avalon Technologies + bankruptcy -> 1 articles
+2026-08-03 23:24:01,137 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Avalon%20Technologies%22%20investment
+2026-08-03 23:24:01,725 | INFO | Avalon Technologies + investment -> 69 articles
+2026-08-03 23:24:01,725 | INFO | Avalon Technologies + investment -> 69 articles
+2026-08-03 23:24:01,726 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Avalon%20Technologies%22%20supplier
+2026-08-03 23:24:02,046 | INFO | Avalon Technologies + supplier -> 13 articles
+2026-08-03 23:24:02,046 | INFO | Avalon Technologies + supplier -> 13 articles
+2026-08-03 23:24:02,047 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Avalon%20Technologies%22%20export
+2026-08-03 23:24:02,450 | INFO | Avalon Technologies + export -> 46 articles
+2026-08-03 23:24:02,450 | INFO | Avalon Technologies + export -> 46 articles
+2026-08-03 23:24:02,450 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Avalon%20Technologies%22%20import
+2026-08-03 23:24:02,767 | INFO | Avalon Technologies + import -> 14 articles
+2026-08-03 23:24:02,768 | INFO | Avalon Technologies + import -> 14 articles
+2026-08-03 23:24:02,768 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Avalon%20Technologies%22%20semiconductor
+2026-08-03 23:24:03,119 | INFO | Avalon Technologies + semiconductor -> 30 articles
+2026-08-03 23:24:03,119 | INFO | Avalon Technologies + semiconductor -> 30 articles
+2026-08-03 23:24:03,120 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Avalon%20Technologies%22%20acquisition
+2026-08-03 23:24:03,465 | INFO | Avalon Technologies + acquisition -> 19 articles
+2026-08-03 23:24:03,466 | INFO | Avalon Technologies + acquisition -> 19 articles
+2026-08-03 23:24:03,467 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Avalon%20Technologies%22%20outsourcing
+2026-08-03 23:24:03,792 | INFO | Avalon Technologies + outsourcing -> 12 articles
+2026-08-03 23:24:03,794 | INFO | Avalon Technologies + outsourcing -> 12 articles
+2026-08-03 23:24:03,794 | INFO | Google News Collection Completed
+2026-08-03 23:24:03,798 | INFO | Generating Market Intelligence Reports...
+2026-08-03 23:24:04,532 | INFO | Generating report for Avalon Technologies
+2026-08-03 23:24:04,532 | INFO | Starting Market Intelligence workflow: Avalon Technologies
+2026-08-03 23:24:05,424 | INFO | HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+2026-08-04 00:27:06,963 | INFO | HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 500 Internal Server Error"

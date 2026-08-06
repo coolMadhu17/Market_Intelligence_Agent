@@ -1,0 +1,484 @@
+2026-08-04 00:48:02,832 | INFO | Starting Online News Agent
+2026-08-04 00:48:02,833 | INFO | Loading configuration...
+2026-08-04 00:48:02,850 | INFO | 1 competitors loaded
+2026-08-04 00:48:02,850 | INFO | 12 keywords loaded
+2026-08-04 00:48:02,851 | INFO | 5 sources configured
+2026-08-04 00:48:02,856 | INFO | Starting Google News Collection
+2026-08-04 00:48:02,857 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Avalon%20Technologies%22%20factory%20closure
+2026-08-04 00:48:03,823 | INFO | Avalon Technologies + factory closure -> 12 articles
+2026-08-04 00:48:03,823 | INFO | Avalon Technologies + factory closure -> 12 articles
+2026-08-04 00:48:03,823 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Avalon%20Technologies%22%20strike
+2026-08-04 00:48:04,201 | INFO | Avalon Technologies + strike -> 2 articles
+2026-08-04 00:48:04,202 | INFO | Avalon Technologies + strike -> 2 articles
+2026-08-04 00:48:04,202 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Avalon%20Technologies%22%20plant%20expansion
+2026-08-04 00:48:04,626 | INFO | Avalon Technologies + plant expansion -> 9 articles
+2026-08-04 00:48:04,626 | INFO | Avalon Technologies + plant expansion -> 9 articles
+2026-08-04 00:48:04,628 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Avalon%20Technologies%22%20layoffs
+2026-08-04 00:48:05,026 | INFO | Avalon Technologies + layoffs -> 2 articles
+2026-08-04 00:48:05,026 | INFO | Avalon Technologies + layoffs -> 2 articles
+2026-08-04 00:48:05,028 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Avalon%20Technologies%22%20bankruptcy
+2026-08-04 00:48:05,393 | INFO | Avalon Technologies + bankruptcy -> 1 articles
+2026-08-04 00:48:05,401 | INFO | Avalon Technologies + bankruptcy -> 1 articles
+2026-08-04 00:48:05,401 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Avalon%20Technologies%22%20investment
+2026-08-04 00:48:05,949 | INFO | Avalon Technologies + investment -> 69 articles
+2026-08-04 00:48:05,950 | INFO | Avalon Technologies + investment -> 69 articles
+2026-08-04 00:48:05,951 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Avalon%20Technologies%22%20supplier
+2026-08-04 00:48:06,385 | INFO | Avalon Technologies + supplier -> 13 articles
+2026-08-04 00:48:06,385 | INFO | Avalon Technologies + supplier -> 13 articles
+2026-08-04 00:48:06,385 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Avalon%20Technologies%22%20export
+2026-08-04 00:48:06,924 | INFO | Avalon Technologies + export -> 46 articles
+2026-08-04 00:48:06,924 | INFO | Avalon Technologies + export -> 46 articles
+2026-08-04 00:48:06,924 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Avalon%20Technologies%22%20import
+2026-08-04 00:48:07,404 | INFO | Avalon Technologies + import -> 13 articles
+2026-08-04 00:48:07,405 | INFO | Avalon Technologies + import -> 13 articles
+2026-08-04 00:48:07,405 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Avalon%20Technologies%22%20semiconductor
+2026-08-04 00:48:07,836 | INFO | Avalon Technologies + semiconductor -> 30 articles
+2026-08-04 00:48:07,837 | INFO | Avalon Technologies + semiconductor -> 30 articles
+2026-08-04 00:48:07,838 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Avalon%20Technologies%22%20acquisition
+2026-08-04 00:48:08,150 | INFO | Avalon Technologies + acquisition -> 19 articles
+2026-08-04 00:48:08,150 | INFO | Avalon Technologies + acquisition -> 19 articles
+2026-08-04 00:48:08,152 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Avalon%20Technologies%22%20outsourcing
+2026-08-04 00:48:08,450 | INFO | Avalon Technologies + outsourcing -> 12 articles
+2026-08-04 00:48:08,454 | INFO | Avalon Technologies + outsourcing -> 12 articles
+2026-08-04 00:48:08,454 | INFO | Google News Collection Completed
+2026-08-04 00:48:08,458 | INFO | Generating Market Intelligence Reports...
+2026-08-04 00:48:09,807 | INFO | Generating report for Avalon Technologies
+2026-08-04 00:48:09,807 | INFO | Starting Market Intelligence workflow: Avalon Technologies
+2026-08-04 00:48:12,178 | INFO | HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+2026-08-04 01:04:55,027 | INFO | HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-08-04 01:04:55,113 | INFO | Market Agent completed: Avalon Technologies
+2026-08-04 01:17:47,643 | INFO | Starting Online News Agent
+2026-08-04 01:17:47,644 | INFO | Loading configuration...
+2026-08-04 01:17:47,651 | INFO | 1 competitors loaded
+2026-08-04 01:17:47,652 | INFO | 12 keywords loaded
+2026-08-04 01:17:47,652 | INFO | 5 sources configured
+2026-08-04 01:17:47,656 | INFO | Starting Google News Collection
+2026-08-04 01:17:47,657 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Avalon%20Technologies%22%20factory%20closure
+2026-08-04 01:17:48,359 | INFO | Avalon Technologies + factory closure -> 12 articles
+2026-08-04 01:17:48,359 | INFO | Avalon Technologies + factory closure -> 12 articles
+2026-08-04 01:17:48,360 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Avalon%20Technologies%22%20strike
+2026-08-04 01:17:48,752 | INFO | Avalon Technologies + strike -> 2 articles
+2026-08-04 01:17:48,752 | INFO | Avalon Technologies + strike -> 2 articles
+2026-08-04 01:17:48,754 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Avalon%20Technologies%22%20plant%20expansion
+2026-08-04 01:17:49,159 | INFO | Avalon Technologies + plant expansion -> 9 articles
+2026-08-04 01:17:49,159 | INFO | Avalon Technologies + plant expansion -> 9 articles
+2026-08-04 01:17:49,160 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Avalon%20Technologies%22%20layoffs
+2026-08-04 01:17:49,524 | INFO | Avalon Technologies + layoffs -> 2 articles
+2026-08-04 01:17:49,524 | INFO | Avalon Technologies + layoffs -> 2 articles
+2026-08-04 01:17:49,525 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Avalon%20Technologies%22%20bankruptcy
+2026-08-04 01:17:49,867 | INFO | Avalon Technologies + bankruptcy -> 1 articles
+2026-08-04 01:17:49,867 | INFO | Avalon Technologies + bankruptcy -> 1 articles
+2026-08-04 01:17:49,867 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Avalon%20Technologies%22%20investment
+2026-08-04 01:17:50,403 | INFO | Avalon Technologies + investment -> 69 articles
+2026-08-04 01:17:50,403 | INFO | Avalon Technologies + investment -> 69 articles
+2026-08-04 01:17:50,404 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Avalon%20Technologies%22%20supplier
+2026-08-04 01:17:50,813 | INFO | Avalon Technologies + supplier -> 13 articles
+2026-08-04 01:17:50,813 | INFO | Avalon Technologies + supplier -> 13 articles
+2026-08-04 01:17:50,814 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Avalon%20Technologies%22%20export
+2026-08-04 01:17:51,288 | INFO | Avalon Technologies + export -> 46 articles
+2026-08-04 01:17:51,288 | INFO | Avalon Technologies + export -> 46 articles
+2026-08-04 01:17:51,289 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Avalon%20Technologies%22%20import
+2026-08-04 01:17:51,682 | INFO | Avalon Technologies + import -> 14 articles
+2026-08-04 01:17:51,683 | INFO | Avalon Technologies + import -> 14 articles
+2026-08-04 01:17:51,683 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Avalon%20Technologies%22%20semiconductor
+2026-08-04 01:17:52,100 | INFO | Avalon Technologies + semiconductor -> 30 articles
+2026-08-04 01:17:52,100 | INFO | Avalon Technologies + semiconductor -> 30 articles
+2026-08-04 01:17:52,101 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Avalon%20Technologies%22%20acquisition
+2026-08-04 01:17:52,444 | INFO | Avalon Technologies + acquisition -> 19 articles
+2026-08-04 01:17:52,444 | INFO | Avalon Technologies + acquisition -> 19 articles
+2026-08-04 01:17:52,445 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Avalon%20Technologies%22%20outsourcing
+2026-08-04 01:17:52,708 | INFO | Avalon Technologies + outsourcing -> 12 articles
+2026-08-04 01:17:52,708 | INFO | Avalon Technologies + outsourcing -> 12 articles
+2026-08-04 01:17:52,708 | INFO | Google News Collection Completed
+2026-08-04 01:17:52,711 | INFO | Generating Market Intelligence Reports...
+2026-08-04 01:17:53,138 | INFO | Generating report for Avalon Technologies
+2026-08-04 01:17:53,138 | INFO | Starting Market Intelligence workflow: Avalon Technologies
+2026-08-04 01:17:53,841 | INFO | HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+2026-08-04 01:20:11,841 | INFO | HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-08-04 01:20:11,904 | INFO | Market Agent completed: Avalon Technologies
+2026-08-04 01:36:30,117 | INFO | Starting Online News Agent
+2026-08-04 01:36:30,118 | INFO | Loading configuration...
+2026-08-04 01:36:30,123 | INFO | 1 competitors loaded
+2026-08-04 01:36:30,123 | INFO | 12 keywords loaded
+2026-08-04 01:36:30,123 | INFO | 5 sources configured
+2026-08-04 01:36:30,126 | INFO | Starting Google News Collection
+2026-08-04 01:36:30,126 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Avalon%20Technologies%22%20factory%20closure
+2026-08-04 01:36:30,797 | INFO | Avalon Technologies + factory closure -> 12 articles
+2026-08-04 01:36:30,797 | INFO | Avalon Technologies + factory closure -> 12 articles
+2026-08-04 01:36:30,798 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Avalon%20Technologies%22%20strike
+2026-08-04 01:36:31,169 | INFO | Avalon Technologies + strike -> 2 articles
+2026-08-04 01:36:31,169 | INFO | Avalon Technologies + strike -> 2 articles
+2026-08-04 01:36:31,170 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Avalon%20Technologies%22%20plant%20expansion
+2026-08-04 01:36:31,578 | INFO | Avalon Technologies + plant expansion -> 9 articles
+2026-08-04 01:36:31,578 | INFO | Avalon Technologies + plant expansion -> 9 articles
+2026-08-04 01:36:31,579 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Avalon%20Technologies%22%20layoffs
+2026-08-04 01:36:31,940 | INFO | Avalon Technologies + layoffs -> 2 articles
+2026-08-04 01:36:31,940 | INFO | Avalon Technologies + layoffs -> 2 articles
+2026-08-04 01:36:31,940 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Avalon%20Technologies%22%20bankruptcy
+2026-08-04 01:36:32,290 | INFO | Avalon Technologies + bankruptcy -> 1 articles
+2026-08-04 01:36:32,290 | INFO | Avalon Technologies + bankruptcy -> 1 articles
+2026-08-04 01:36:32,291 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Avalon%20Technologies%22%20investment
+2026-08-04 01:36:32,792 | INFO | Avalon Technologies + investment -> 69 articles
+2026-08-04 01:36:32,792 | INFO | Avalon Technologies + investment -> 69 articles
+2026-08-04 01:36:32,792 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Avalon%20Technologies%22%20supplier
+2026-08-04 01:36:33,196 | INFO | Avalon Technologies + supplier -> 13 articles
+2026-08-04 01:36:33,196 | INFO | Avalon Technologies + supplier -> 13 articles
+2026-08-04 01:36:33,197 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Avalon%20Technologies%22%20export
+2026-08-04 01:36:33,591 | INFO | Avalon Technologies + export -> 46 articles
+2026-08-04 01:36:33,591 | INFO | Avalon Technologies + export -> 46 articles
+2026-08-04 01:36:33,592 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Avalon%20Technologies%22%20import
+2026-08-04 01:36:33,906 | INFO | Avalon Technologies + import -> 14 articles
+2026-08-04 01:36:33,907 | INFO | Avalon Technologies + import -> 14 articles
+2026-08-04 01:36:33,907 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Avalon%20Technologies%22%20semiconductor
+2026-08-04 01:36:34,205 | INFO | Avalon Technologies + semiconductor -> 30 articles
+2026-08-04 01:36:34,205 | INFO | Avalon Technologies + semiconductor -> 30 articles
+2026-08-04 01:36:34,206 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Avalon%20Technologies%22%20acquisition
+2026-08-04 01:36:34,496 | INFO | Avalon Technologies + acquisition -> 19 articles
+2026-08-04 01:36:34,496 | INFO | Avalon Technologies + acquisition -> 19 articles
+2026-08-04 01:36:34,496 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Avalon%20Technologies%22%20outsourcing
+2026-08-04 01:36:34,750 | INFO | Avalon Technologies + outsourcing -> 12 articles
+2026-08-04 01:36:34,751 | INFO | Avalon Technologies + outsourcing -> 12 articles
+2026-08-04 01:36:34,751 | INFO | Google News Collection Completed
+2026-08-04 01:36:34,755 | INFO | Generating Market Intelligence Reports...
+2026-08-04 01:36:35,225 | INFO | Generating report for Avalon Technologies
+2026-08-04 01:36:35,225 | INFO | Starting Market Intelligence workflow: Avalon Technologies
+2026-08-04 01:36:35,931 | INFO | HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+2026-08-04 01:39:16,588 | INFO | HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-08-04 01:39:16,646 | INFO | Market Agent completed: Avalon Technologies
+2026-08-04 12:19:49,776 | INFO | Starting Online News Agent
+2026-08-04 12:19:49,777 | INFO | Loading configuration...
+2026-08-04 12:19:49,781 | INFO | 1 competitors loaded
+2026-08-04 12:19:49,781 | INFO | 12 keywords loaded
+2026-08-04 12:19:49,782 | INFO | 5 sources configured
+2026-08-04 12:19:49,785 | INFO | Starting Google News Collection
+2026-08-04 12:19:49,786 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Avalon%20Technologies%22%20factory%20closure
+2026-08-04 12:19:50,443 | INFO | Avalon Technologies + factory closure -> 11 articles
+2026-08-04 12:19:50,444 | INFO | Avalon Technologies + factory closure -> 11 articles
+2026-08-04 12:19:50,444 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Avalon%20Technologies%22%20strike
+2026-08-04 12:19:50,796 | INFO | Avalon Technologies + strike -> 2 articles
+2026-08-04 12:19:50,796 | INFO | Avalon Technologies + strike -> 2 articles
+2026-08-04 12:19:50,797 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Avalon%20Technologies%22%20plant%20expansion
+2026-08-04 12:19:51,181 | INFO | Avalon Technologies + plant expansion -> 10 articles
+2026-08-04 12:19:51,182 | INFO | Avalon Technologies + plant expansion -> 10 articles
+2026-08-04 12:19:51,182 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Avalon%20Technologies%22%20layoffs
+2026-08-04 12:19:51,450 | INFO | Avalon Technologies + layoffs -> 2 articles
+2026-08-04 12:19:51,451 | INFO | Avalon Technologies + layoffs -> 2 articles
+2026-08-04 12:19:51,452 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Avalon%20Technologies%22%20bankruptcy
+2026-08-04 12:19:51,752 | INFO | Avalon Technologies + bankruptcy -> 1 articles
+2026-08-04 12:19:51,753 | INFO | Avalon Technologies + bankruptcy -> 1 articles
+2026-08-04 12:19:51,755 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Avalon%20Technologies%22%20investment
+2026-08-04 12:19:52,317 | INFO | Avalon Technologies + investment -> 69 articles
+2026-08-04 12:19:52,317 | INFO | Avalon Technologies + investment -> 69 articles
+2026-08-04 12:19:52,317 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Avalon%20Technologies%22%20supplier
+2026-08-04 12:19:52,710 | INFO | Avalon Technologies + supplier -> 13 articles
+2026-08-04 12:19:52,710 | INFO | Avalon Technologies + supplier -> 13 articles
+2026-08-04 12:19:52,711 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Avalon%20Technologies%22%20export
+2026-08-04 12:19:53,132 | INFO | Avalon Technologies + export -> 45 articles
+2026-08-04 12:19:53,133 | INFO | Avalon Technologies + export -> 45 articles
+2026-08-04 12:19:53,133 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Avalon%20Technologies%22%20import
+2026-08-04 12:19:53,493 | INFO | Avalon Technologies + import -> 13 articles
+2026-08-04 12:19:53,493 | INFO | Avalon Technologies + import -> 13 articles
+2026-08-04 12:19:53,494 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Avalon%20Technologies%22%20semiconductor
+2026-08-04 12:19:53,884 | INFO | Avalon Technologies + semiconductor -> 31 articles
+2026-08-04 12:19:53,884 | INFO | Avalon Technologies + semiconductor -> 31 articles
+2026-08-04 12:19:53,885 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Avalon%20Technologies%22%20acquisition
+2026-08-04 12:19:54,271 | INFO | Avalon Technologies + acquisition -> 18 articles
+2026-08-04 12:19:54,272 | INFO | Avalon Technologies + acquisition -> 18 articles
+2026-08-04 12:19:54,272 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Avalon%20Technologies%22%20outsourcing
+2026-08-04 12:19:54,582 | INFO | Avalon Technologies + outsourcing -> 10 articles
+2026-08-04 12:19:54,583 | INFO | Avalon Technologies + outsourcing -> 10 articles
+2026-08-04 12:19:54,583 | INFO | Google News Collection Completed
+2026-08-04 12:19:54,585 | INFO | Generating Market Intelligence Reports...
+2026-08-04 12:19:54,954 | INFO | Generating report for Avalon Technologies
+2026-08-04 12:19:54,954 | INFO | Starting Market Intelligence workflow: Avalon Technologies
+2026-08-04 12:19:55,025 | INFO | HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+2026-08-04 15:59:11,226 | INFO | HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 500 Internal Server Error"
+2026-08-04 20:27:46,102 | INFO | Starting Online News Agent
+2026-08-04 20:27:46,102 | INFO | Loading configuration...
+2026-08-04 20:27:46,109 | INFO | 1 competitors loaded
+2026-08-04 20:27:46,109 | INFO | 12 keywords loaded
+2026-08-04 20:27:46,109 | INFO | 5 sources configured
+2026-08-04 20:27:46,113 | INFO | Starting Google News Collection
+2026-08-04 20:27:46,116 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Avalon%20Technologies%22%20factory%20closure
+2026-08-04 20:27:46,124 | WARNING | GoogleRSS Retry 1 : HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /rss/search?q=%22Avalon%20Technologies%22%20factory%20closure (Caused by NameResolutionError("HTTPSConnection(host='news.google.com', port=443): Failed to resolve 'news.google.com' ([Errno 11001] getaddrinfo failed)"))
+2026-08-04 20:27:48,129 | WARNING | GoogleRSS Retry 2 : HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /rss/search?q=%22Avalon%20Technologies%22%20factory%20closure (Caused by NameResolutionError("HTTPSConnection(host='news.google.com', port=443): Failed to resolve 'news.google.com' ([Errno 11001] getaddrinfo failed)"))
+2026-08-04 20:27:50,132 | WARNING | GoogleRSS Retry 3 : HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /rss/search?q=%22Avalon%20Technologies%22%20factory%20closure (Caused by NameResolutionError("HTTPSConnection(host='news.google.com', port=443): Failed to resolve 'news.google.com' ([Errno 11001] getaddrinfo failed)"))
+2026-08-04 20:27:52,136 | INFO | Avalon Technologies + factory closure -> 0 articles
+2026-08-04 20:27:52,136 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Avalon%20Technologies%22%20strike
+2026-08-04 20:27:52,136 | WARNING | GoogleRSS Retry 1 : HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /rss/search?q=%22Avalon%20Technologies%22%20strike (Caused by NameResolutionError("HTTPSConnection(host='news.google.com', port=443): Failed to resolve 'news.google.com' ([Errno 11001] getaddrinfo failed)"))
+2026-08-04 20:27:54,142 | WARNING | GoogleRSS Retry 2 : HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /rss/search?q=%22Avalon%20Technologies%22%20strike (Caused by NameResolutionError("HTTPSConnection(host='news.google.com', port=443): Failed to resolve 'news.google.com' ([Errno 11001] getaddrinfo failed)"))
+2026-08-04 20:27:56,143 | WARNING | GoogleRSS Retry 3 : HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /rss/search?q=%22Avalon%20Technologies%22%20strike (Caused by NameResolutionError("HTTPSConnection(host='news.google.com', port=443): Failed to resolve 'news.google.com' ([Errno 11001] getaddrinfo failed)"))
+2026-08-04 20:27:58,147 | INFO | Avalon Technologies + strike -> 0 articles
+2026-08-04 20:27:58,148 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Avalon%20Technologies%22%20plant%20expansion
+2026-08-04 20:27:58,151 | WARNING | GoogleRSS Retry 1 : HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /rss/search?q=%22Avalon%20Technologies%22%20plant%20expansion (Caused by NameResolutionError("HTTPSConnection(host='news.google.com', port=443): Failed to resolve 'news.google.com' ([Errno 11001] getaddrinfo failed)"))
+2026-08-04 20:28:00,155 | WARNING | GoogleRSS Retry 2 : HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /rss/search?q=%22Avalon%20Technologies%22%20plant%20expansion (Caused by NameResolutionError("HTTPSConnection(host='news.google.com', port=443): Failed to resolve 'news.google.com' ([Errno 11001] getaddrinfo failed)"))
+2026-08-04 20:28:02,157 | WARNING | GoogleRSS Retry 3 : HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /rss/search?q=%22Avalon%20Technologies%22%20plant%20expansion (Caused by NameResolutionError("HTTPSConnection(host='news.google.com', port=443): Failed to resolve 'news.google.com' ([Errno 11001] getaddrinfo failed)"))
+2026-08-04 20:28:04,159 | INFO | Avalon Technologies + plant expansion -> 0 articles
+2026-08-04 20:28:04,159 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Avalon%20Technologies%22%20layoffs
+2026-08-04 20:28:04,160 | WARNING | GoogleRSS Retry 1 : HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /rss/search?q=%22Avalon%20Technologies%22%20layoffs (Caused by NameResolutionError("HTTPSConnection(host='news.google.com', port=443): Failed to resolve 'news.google.com' ([Errno 11001] getaddrinfo failed)"))
+2026-08-04 20:28:06,164 | WARNING | GoogleRSS Retry 2 : HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /rss/search?q=%22Avalon%20Technologies%22%20layoffs (Caused by NameResolutionError("HTTPSConnection(host='news.google.com', port=443): Failed to resolve 'news.google.com' ([Errno 11001] getaddrinfo failed)"))
+2026-08-04 20:28:08,171 | WARNING | GoogleRSS Retry 3 : HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /rss/search?q=%22Avalon%20Technologies%22%20layoffs (Caused by NameResolutionError("HTTPSConnection(host='news.google.com', port=443): Failed to resolve 'news.google.com' ([Errno 11001] getaddrinfo failed)"))
+2026-08-04 20:28:10,172 | INFO | Avalon Technologies + layoffs -> 0 articles
+2026-08-04 20:28:10,172 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Avalon%20Technologies%22%20bankruptcy
+2026-08-04 20:28:10,172 | WARNING | GoogleRSS Retry 1 : HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /rss/search?q=%22Avalon%20Technologies%22%20bankruptcy (Caused by NameResolutionError("HTTPSConnection(host='news.google.com', port=443): Failed to resolve 'news.google.com' ([Errno 11001] getaddrinfo failed)"))
+2026-08-04 20:28:12,175 | WARNING | GoogleRSS Retry 2 : HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /rss/search?q=%22Avalon%20Technologies%22%20bankruptcy (Caused by NameResolutionError("HTTPSConnection(host='news.google.com', port=443): Failed to resolve 'news.google.com' ([Errno 11001] getaddrinfo failed)"))
+2026-08-04 20:28:14,178 | WARNING | GoogleRSS Retry 3 : HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /rss/search?q=%22Avalon%20Technologies%22%20bankruptcy (Caused by NameResolutionError("HTTPSConnection(host='news.google.com', port=443): Failed to resolve 'news.google.com' ([Errno 11001] getaddrinfo failed)"))
+2026-08-04 20:28:16,180 | INFO | Avalon Technologies + bankruptcy -> 0 articles
+2026-08-04 20:28:16,180 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Avalon%20Technologies%22%20investment
+2026-08-04 20:28:16,183 | WARNING | GoogleRSS Retry 1 : HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /rss/search?q=%22Avalon%20Technologies%22%20investment (Caused by NameResolutionError("HTTPSConnection(host='news.google.com', port=443): Failed to resolve 'news.google.com' ([Errno 11001] getaddrinfo failed)"))
+2026-08-04 20:28:18,190 | WARNING | GoogleRSS Retry 2 : HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /rss/search?q=%22Avalon%20Technologies%22%20investment (Caused by NameResolutionError("HTTPSConnection(host='news.google.com', port=443): Failed to resolve 'news.google.com' ([Errno 11001] getaddrinfo failed)"))
+2026-08-04 20:28:20,193 | WARNING | GoogleRSS Retry 3 : HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /rss/search?q=%22Avalon%20Technologies%22%20investment (Caused by NameResolutionError("HTTPSConnection(host='news.google.com', port=443): Failed to resolve 'news.google.com' ([Errno 11001] getaddrinfo failed)"))
+2026-08-04 20:28:22,194 | INFO | Avalon Technologies + investment -> 0 articles
+2026-08-04 20:28:22,194 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Avalon%20Technologies%22%20supplier
+2026-08-04 20:28:22,194 | WARNING | GoogleRSS Retry 1 : HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /rss/search?q=%22Avalon%20Technologies%22%20supplier (Caused by NameResolutionError("HTTPSConnection(host='news.google.com', port=443): Failed to resolve 'news.google.com' ([Errno 11001] getaddrinfo failed)"))
+2026-08-04 20:28:24,199 | WARNING | GoogleRSS Retry 2 : HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /rss/search?q=%22Avalon%20Technologies%22%20supplier (Caused by NameResolutionError("HTTPSConnection(host='news.google.com', port=443): Failed to resolve 'news.google.com' ([Errno 11001] getaddrinfo failed)"))
+2026-08-04 20:28:46,774 | INFO | Starting Online News Agent
+2026-08-04 20:28:46,774 | INFO | Loading configuration...
+2026-08-04 20:28:46,778 | INFO | 1 competitors loaded
+2026-08-04 20:28:46,784 | INFO | 12 keywords loaded
+2026-08-04 20:28:46,784 | INFO | 5 sources configured
+2026-08-04 20:28:46,786 | INFO | Starting Google News Collection
+2026-08-04 20:28:46,786 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Avalon%20Technologies%22%20factory%20closure
+2026-08-04 20:28:47,496 | INFO | Avalon Technologies + factory closure -> 11 articles
+2026-08-04 20:28:47,496 | INFO | Avalon Technologies + factory closure -> 11 articles
+2026-08-04 20:28:47,496 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Avalon%20Technologies%22%20strike
+2026-08-04 20:28:47,951 | INFO | Avalon Technologies + strike -> 1 articles
+2026-08-04 20:28:47,951 | INFO | Avalon Technologies + strike -> 1 articles
+2026-08-04 20:28:47,951 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Avalon%20Technologies%22%20plant%20expansion
+2026-08-04 20:28:48,438 | INFO | Avalon Technologies + plant expansion -> 10 articles
+2026-08-04 20:28:48,438 | INFO | Avalon Technologies + plant expansion -> 10 articles
+2026-08-04 20:28:48,438 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Avalon%20Technologies%22%20layoffs
+2026-08-04 20:28:48,848 | INFO | Avalon Technologies + layoffs -> 2 articles
+2026-08-04 20:28:48,848 | INFO | Avalon Technologies + layoffs -> 2 articles
+2026-08-04 20:28:48,848 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Avalon%20Technologies%22%20bankruptcy
+2026-08-04 20:28:49,290 | INFO | Avalon Technologies + bankruptcy -> 1 articles
+2026-08-04 20:28:49,293 | INFO | Avalon Technologies + bankruptcy -> 1 articles
+2026-08-04 20:28:49,294 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Avalon%20Technologies%22%20investment
+2026-08-04 20:28:49,944 | INFO | Avalon Technologies + investment -> 68 articles
+2026-08-04 20:28:49,944 | INFO | Avalon Technologies + investment -> 68 articles
+2026-08-04 20:28:49,944 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Avalon%20Technologies%22%20supplier
+2026-08-04 20:28:50,028 | INFO | Avalon Technologies + supplier -> 13 articles
+2026-08-04 20:28:50,028 | INFO | Avalon Technologies + supplier -> 13 articles
+2026-08-04 20:28:50,028 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Avalon%20Technologies%22%20export
+2026-08-04 20:28:50,560 | INFO | Avalon Technologies + export -> 45 articles
+2026-08-04 20:28:50,560 | INFO | Avalon Technologies + export -> 45 articles
+2026-08-04 20:28:50,562 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Avalon%20Technologies%22%20import
+2026-08-04 20:28:51,013 | INFO | Avalon Technologies + import -> 14 articles
+2026-08-04 20:28:51,013 | INFO | Avalon Technologies + import -> 14 articles
+2026-08-04 20:28:51,013 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Avalon%20Technologies%22%20semiconductor
+2026-08-04 20:28:51,406 | INFO | Avalon Technologies + semiconductor -> 30 articles
+2026-08-04 20:28:51,406 | INFO | Avalon Technologies + semiconductor -> 30 articles
+2026-08-04 20:28:51,407 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Avalon%20Technologies%22%20acquisition
+2026-08-04 20:28:51,762 | INFO | Avalon Technologies + acquisition -> 18 articles
+2026-08-04 20:28:51,762 | INFO | Avalon Technologies + acquisition -> 18 articles
+2026-08-04 20:28:51,763 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Avalon%20Technologies%22%20outsourcing
+2026-08-04 20:28:52,073 | INFO | Avalon Technologies + outsourcing -> 10 articles
+2026-08-04 20:28:52,073 | INFO | Avalon Technologies + outsourcing -> 10 articles
+2026-08-04 20:28:52,073 | INFO | Google News Collection Completed
+2026-08-04 20:28:52,075 | INFO | Generating Market Intelligence Reports...
+2026-08-04 20:28:52,547 | INFO | Generating report for Avalon Technologies
+2026-08-04 20:28:52,547 | INFO | Starting Market Intelligence workflow: Avalon Technologies
+2026-08-04 20:28:53,338 | INFO | HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+2026-08-04 20:34:46,168 | INFO | HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-08-04 20:34:46,225 | INFO | Market Agent completed: Avalon Technologies
+2026-08-04 20:57:24,926 | INFO | Starting Online News Agent
+2026-08-04 20:57:24,928 | INFO | Loading configuration...
+2026-08-04 20:57:24,937 | INFO | 1 competitors loaded
+2026-08-04 20:57:24,938 | INFO | 12 keywords loaded
+2026-08-04 20:57:24,938 | INFO | 5 sources configured
+2026-08-04 20:57:24,943 | INFO | Starting Google News Collection
+2026-08-04 20:57:24,946 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Avalon%20Technologies%22%20factory%20closure
+2026-08-04 20:57:25,738 | INFO | Avalon Technologies + factory closure -> 11 articles
+2026-08-04 20:57:25,738 | INFO | Avalon Technologies + factory closure -> 11 articles
+2026-08-04 20:57:25,738 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Avalon%20Technologies%22%20strike
+2026-08-04 20:57:26,200 | INFO | Avalon Technologies + strike -> 1 articles
+2026-08-04 20:57:26,200 | INFO | Avalon Technologies + strike -> 1 articles
+2026-08-04 20:57:26,200 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Avalon%20Technologies%22%20plant%20expansion
+2026-08-04 20:57:26,653 | INFO | Avalon Technologies + plant expansion -> 10 articles
+2026-08-04 20:57:26,653 | INFO | Avalon Technologies + plant expansion -> 10 articles
+2026-08-04 20:57:26,657 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Avalon%20Technologies%22%20layoffs
+2026-08-04 20:57:27,053 | INFO | Avalon Technologies + layoffs -> 2 articles
+2026-08-04 20:57:27,053 | INFO | Avalon Technologies + layoffs -> 2 articles
+2026-08-04 20:57:27,058 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Avalon%20Technologies%22%20bankruptcy
+2026-08-04 20:57:27,518 | INFO | Avalon Technologies + bankruptcy -> 1 articles
+2026-08-04 20:57:27,518 | INFO | Avalon Technologies + bankruptcy -> 1 articles
+2026-08-04 20:57:27,520 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Avalon%20Technologies%22%20investment
+2026-08-04 20:57:28,016 | INFO | Avalon Technologies + investment -> 68 articles
+2026-08-04 20:57:28,022 | INFO | Avalon Technologies + investment -> 68 articles
+2026-08-04 20:57:28,024 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Avalon%20Technologies%22%20supplier
+2026-08-04 20:57:28,385 | INFO | Avalon Technologies + supplier -> 12 articles
+2026-08-04 20:57:28,385 | INFO | Avalon Technologies + supplier -> 12 articles
+2026-08-04 20:57:28,385 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Avalon%20Technologies%22%20export
+2026-08-04 20:57:28,948 | INFO | Avalon Technologies + export -> 45 articles
+2026-08-04 20:57:28,948 | INFO | Avalon Technologies + export -> 45 articles
+2026-08-04 20:57:28,949 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Avalon%20Technologies%22%20import
+2026-08-04 20:57:29,290 | INFO | Avalon Technologies + import -> 14 articles
+2026-08-04 20:57:29,291 | INFO | Avalon Technologies + import -> 14 articles
+2026-08-04 20:57:29,291 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Avalon%20Technologies%22%20semiconductor
+2026-08-04 20:57:29,649 | INFO | Avalon Technologies + semiconductor -> 30 articles
+2026-08-04 20:57:29,649 | INFO | Avalon Technologies + semiconductor -> 30 articles
+2026-08-04 20:57:29,649 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Avalon%20Technologies%22%20acquisition
+2026-08-04 20:57:30,012 | INFO | Avalon Technologies + acquisition -> 17 articles
+2026-08-04 20:57:30,012 | INFO | Avalon Technologies + acquisition -> 17 articles
+2026-08-04 20:57:30,012 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Avalon%20Technologies%22%20outsourcing
+2026-08-04 20:57:30,315 | INFO | Avalon Technologies + outsourcing -> 10 articles
+2026-08-04 20:57:30,315 | INFO | Avalon Technologies + outsourcing -> 10 articles
+2026-08-04 20:57:30,315 | INFO | Google News Collection Completed
+2026-08-04 20:57:30,315 | INFO | Generating Market Intelligence Reports...
+2026-08-04 20:57:30,807 | INFO | Generating report for Avalon Technologies
+2026-08-04 20:57:30,807 | INFO | Starting Market Intelligence workflow: Avalon Technologies
+2026-08-04 20:57:31,714 | INFO | HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+2026-08-04 21:07:10,323 | INFO | HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-08-04 21:07:10,391 | INFO | Market Agent completed: Avalon Technologies
+2026-08-04 21:30:07,206 | INFO | Starting Online News Agent
+2026-08-04 21:30:07,207 | INFO | Loading configuration...
+2026-08-04 21:30:07,219 | INFO | 1 competitors loaded
+2026-08-04 21:30:07,219 | INFO | 12 keywords loaded
+2026-08-04 21:30:07,220 | INFO | 5 sources configured
+2026-08-04 21:30:07,222 | INFO | Starting Google News Collection
+2026-08-04 21:30:07,223 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Avalon%20Technologies%22%20factory%20closure
+2026-08-04 21:30:07,924 | INFO | Avalon Technologies + factory closure -> 11 articles
+2026-08-04 21:30:07,924 | INFO | Avalon Technologies + factory closure -> 11 articles
+2026-08-04 21:30:07,925 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Avalon%20Technologies%22%20strike
+2026-08-04 21:30:08,360 | INFO | Avalon Technologies + strike -> 2 articles
+2026-08-04 21:30:08,360 | INFO | Avalon Technologies + strike -> 2 articles
+2026-08-04 21:30:08,361 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Avalon%20Technologies%22%20plant%20expansion
+2026-08-04 21:30:08,812 | INFO | Avalon Technologies + plant expansion -> 9 articles
+2026-08-04 21:30:08,813 | INFO | Avalon Technologies + plant expansion -> 9 articles
+2026-08-04 21:30:08,814 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Avalon%20Technologies%22%20layoffs
+2026-08-04 21:30:09,226 | INFO | Avalon Technologies + layoffs -> 2 articles
+2026-08-04 21:30:09,226 | INFO | Avalon Technologies + layoffs -> 2 articles
+2026-08-04 21:30:09,227 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Avalon%20Technologies%22%20bankruptcy
+2026-08-04 21:30:09,693 | INFO | Avalon Technologies + bankruptcy -> 1 articles
+2026-08-04 21:30:09,693 | INFO | Avalon Technologies + bankruptcy -> 1 articles
+2026-08-04 21:30:09,694 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Avalon%20Technologies%22%20investment
+2026-08-04 21:30:10,320 | INFO | Avalon Technologies + investment -> 68 articles
+2026-08-04 21:30:10,320 | INFO | Avalon Technologies + investment -> 68 articles
+2026-08-04 21:30:10,321 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Avalon%20Technologies%22%20supplier
+2026-08-04 21:30:10,795 | INFO | Avalon Technologies + supplier -> 12 articles
+2026-08-04 21:30:10,796 | INFO | Avalon Technologies + supplier -> 12 articles
+2026-08-04 21:30:10,797 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Avalon%20Technologies%22%20export
+2026-08-04 21:30:11,347 | INFO | Avalon Technologies + export -> 45 articles
+2026-08-04 21:30:11,347 | INFO | Avalon Technologies + export -> 45 articles
+2026-08-04 21:30:11,347 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Avalon%20Technologies%22%20import
+2026-08-04 21:30:11,793 | INFO | Avalon Technologies + import -> 14 articles
+2026-08-04 21:30:11,795 | INFO | Avalon Technologies + import -> 14 articles
+2026-08-04 21:30:11,795 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Avalon%20Technologies%22%20semiconductor
+2026-08-04 21:30:12,158 | INFO | Avalon Technologies + semiconductor -> 31 articles
+2026-08-04 21:30:12,159 | INFO | Avalon Technologies + semiconductor -> 31 articles
+2026-08-04 21:30:12,159 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Avalon%20Technologies%22%20acquisition
+2026-08-04 21:30:12,491 | INFO | Avalon Technologies + acquisition -> 18 articles
+2026-08-04 21:30:12,492 | INFO | Avalon Technologies + acquisition -> 18 articles
+2026-08-04 21:30:12,492 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Avalon%20Technologies%22%20outsourcing
+2026-08-04 21:30:12,830 | INFO | Avalon Technologies + outsourcing -> 10 articles
+2026-08-04 21:30:12,830 | INFO | Avalon Technologies + outsourcing -> 10 articles
+2026-08-04 21:30:12,830 | INFO | Google News Collection Completed
+2026-08-04 21:30:12,832 | INFO | Generating Market Intelligence Reports...
+2026-08-04 21:30:13,871 | INFO | Generating report for Avalon Technologies
+2026-08-04 21:30:13,871 | INFO | Starting Market Intelligence workflow: Avalon Technologies
+2026-08-04 21:30:15,987 | INFO | HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+2026-08-04 21:36:09,265 | INFO | HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-08-04 21:36:09,330 | INFO | Market Agent completed: Avalon Technologies
+2026-08-04 21:36:09,344 | INFO | Report generated: Avalon Technologies
+2026-08-04 21:36:09,599 | INFO | Excel report created: reports\Avalon Technologies_Market_Intelligence_Report.xlsx
+2026-08-04 21:36:09,616 | INFO | Market Intelligence Reports Completed
+2026-08-04 21:36:09,650 | INFO | All modules completed successfully
+2026-08-04 22:37:56,068 | INFO | Starting Online News Agent
+2026-08-04 22:37:56,069 | INFO | Loading configuration...
+2026-08-04 22:37:56,082 | INFO | 1 competitors loaded
+2026-08-04 22:37:56,082 | INFO | 12 keywords loaded
+2026-08-04 22:37:56,082 | INFO | 5 sources configured
+2026-08-04 22:37:56,085 | INFO | Starting Google News Collection
+2026-08-04 22:37:56,086 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Avalon%20Technologies%22%20factory%20closure
+2026-08-04 22:37:56,870 | INFO | Avalon Technologies + factory closure -> 11 articles
+2026-08-04 22:37:56,871 | INFO | Avalon Technologies + factory closure -> 11 articles
+2026-08-04 22:37:56,871 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Avalon%20Technologies%22%20strike
+2026-08-04 22:37:57,370 | INFO | Avalon Technologies + strike -> 1 articles
+2026-08-04 22:37:57,370 | INFO | Avalon Technologies + strike -> 1 articles
+2026-08-04 22:37:57,371 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Avalon%20Technologies%22%20plant%20expansion
+2026-08-04 22:37:57,799 | INFO | Avalon Technologies + plant expansion -> 9 articles
+2026-08-04 22:37:57,799 | INFO | Avalon Technologies + plant expansion -> 9 articles
+2026-08-04 22:37:57,799 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Avalon%20Technologies%22%20layoffs
+2026-08-04 22:37:58,238 | INFO | Avalon Technologies + layoffs -> 2 articles
+2026-08-04 22:37:58,239 | INFO | Avalon Technologies + layoffs -> 2 articles
+2026-08-04 22:37:58,239 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Avalon%20Technologies%22%20bankruptcy
+2026-08-04 22:37:58,644 | INFO | Avalon Technologies + bankruptcy -> 1 articles
+2026-08-04 22:37:58,644 | INFO | Avalon Technologies + bankruptcy -> 1 articles
+2026-08-04 22:37:58,644 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Avalon%20Technologies%22%20investment
+2026-08-04 22:37:59,240 | INFO | Avalon Technologies + investment -> 69 articles
+2026-08-04 22:37:59,240 | INFO | Avalon Technologies + investment -> 69 articles
+2026-08-04 22:37:59,241 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Avalon%20Technologies%22%20supplier
+2026-08-04 22:37:59,746 | INFO | Avalon Technologies + supplier -> 12 articles
+2026-08-04 22:37:59,746 | INFO | Avalon Technologies + supplier -> 12 articles
+2026-08-04 22:37:59,747 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Avalon%20Technologies%22%20export
+2026-08-04 22:38:00,364 | INFO | Avalon Technologies + export -> 45 articles
+2026-08-04 22:38:00,364 | INFO | Avalon Technologies + export -> 45 articles
+2026-08-04 22:38:00,365 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Avalon%20Technologies%22%20import
+2026-08-04 22:38:00,759 | INFO | Avalon Technologies + import -> 14 articles
+2026-08-04 22:38:00,759 | INFO | Avalon Technologies + import -> 14 articles
+2026-08-04 22:38:00,760 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Avalon%20Technologies%22%20semiconductor
+2026-08-04 22:38:01,084 | INFO | Avalon Technologies + semiconductor -> 31 articles
+2026-08-04 22:38:01,084 | INFO | Avalon Technologies + semiconductor -> 31 articles
+2026-08-04 22:38:01,085 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Avalon%20Technologies%22%20acquisition
+2026-08-04 22:38:01,400 | INFO | Avalon Technologies + acquisition -> 18 articles
+2026-08-04 22:38:01,401 | INFO | Avalon Technologies + acquisition -> 18 articles
+2026-08-04 22:38:01,401 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Avalon%20Technologies%22%20outsourcing
+2026-08-04 22:38:01,709 | INFO | Avalon Technologies + outsourcing -> 10 articles
+2026-08-04 22:38:01,709 | INFO | Avalon Technologies + outsourcing -> 10 articles
+2026-08-04 22:38:01,710 | INFO | Google News Collection Completed
+2026-08-04 22:38:01,713 | INFO | Generating Market Intelligence Reports...
+2026-08-04 22:38:02,238 | INFO | Generating report for Avalon Technologies
+2026-08-04 22:38:02,239 | INFO | Starting Market Intelligence workflow: Avalon Technologies
+2026-08-04 22:38:03,103 | INFO | HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+2026-08-04 22:47:43,205 | INFO | HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-08-04 22:47:43,259 | INFO | Market Agent completed: Avalon Technologies
+2026-08-04 23:49:03,290 | INFO | Starting Online News Agent
+2026-08-04 23:49:03,291 | INFO | Loading configuration...
+2026-08-04 23:49:03,304 | INFO | 1 competitors loaded
+2026-08-04 23:49:03,306 | INFO | 12 keywords loaded
+2026-08-04 23:49:03,306 | INFO | 5 sources configured
+2026-08-04 23:49:03,312 | INFO | Starting Google News Collection
+2026-08-04 23:49:03,313 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Avalon%20Technologies%22%20factory%20closure
+2026-08-04 23:49:04,160 | INFO | Avalon Technologies + factory closure -> 11 articles
+2026-08-04 23:49:04,160 | INFO | Avalon Technologies + factory closure -> 11 articles
+2026-08-04 23:49:04,160 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Avalon%20Technologies%22%20strike
+2026-08-04 23:49:04,574 | INFO | Avalon Technologies + strike -> 1 articles
+2026-08-04 23:49:04,574 | INFO | Avalon Technologies + strike -> 1 articles
+2026-08-04 23:49:04,575 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Avalon%20Technologies%22%20plant%20expansion
+2026-08-04 23:49:04,998 | INFO | Avalon Technologies + plant expansion -> 9 articles
+2026-08-04 23:49:04,999 | INFO | Avalon Technologies + plant expansion -> 9 articles
+2026-08-04 23:49:04,999 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Avalon%20Technologies%22%20layoffs
+2026-08-04 23:49:05,423 | INFO | Avalon Technologies + layoffs -> 2 articles
+2026-08-04 23:49:05,423 | INFO | Avalon Technologies + layoffs -> 2 articles
+2026-08-04 23:49:05,424 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Avalon%20Technologies%22%20bankruptcy
+2026-08-04 23:49:05,787 | INFO | Avalon Technologies + bankruptcy -> 1 articles
+2026-08-04 23:49:05,787 | INFO | Avalon Technologies + bankruptcy -> 1 articles
+2026-08-04 23:49:05,788 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Avalon%20Technologies%22%20investment
+2026-08-04 23:49:06,473 | INFO | Avalon Technologies + investment -> 69 articles
+2026-08-04 23:49:06,474 | INFO | Avalon Technologies + investment -> 69 articles
+2026-08-04 23:49:06,475 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Avalon%20Technologies%22%20supplier
+2026-08-04 23:49:06,925 | INFO | Avalon Technologies + supplier -> 12 articles
+2026-08-04 23:49:06,926 | INFO | Avalon Technologies + supplier -> 12 articles
+2026-08-04 23:49:06,926 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Avalon%20Technologies%22%20export
+2026-08-04 23:49:07,484 | INFO | Avalon Technologies + export -> 44 articles
+2026-08-04 23:49:07,485 | INFO | Avalon Technologies + export -> 44 articles
+2026-08-04 23:49:07,486 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Avalon%20Technologies%22%20import
+2026-08-04 23:49:07,994 | INFO | Avalon Technologies + import -> 14 articles
+2026-08-04 23:49:07,994 | INFO | Avalon Technologies + import -> 14 articles
+2026-08-04 23:49:07,995 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Avalon%20Technologies%22%20semiconductor
+2026-08-04 23:49:08,320 | INFO | Avalon Technologies + semiconductor -> 31 articles
+2026-08-04 23:49:08,320 | INFO | Avalon Technologies + semiconductor -> 31 articles
+2026-08-04 23:49:08,321 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Avalon%20Technologies%22%20acquisition
+2026-08-04 23:49:08,651 | INFO | Avalon Technologies + acquisition -> 17 articles
+2026-08-04 23:49:08,651 | INFO | Avalon Technologies + acquisition -> 17 articles
+2026-08-04 23:49:08,651 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Avalon%20Technologies%22%20outsourcing
+2026-08-04 23:49:08,940 | INFO | Avalon Technologies + outsourcing -> 10 articles
+2026-08-04 23:49:08,940 | INFO | Avalon Technologies + outsourcing -> 10 articles
+2026-08-04 23:49:08,940 | INFO | Google News Collection Completed
+2026-08-04 23:49:08,945 | INFO | Generating Market Intelligence Reports...
+2026-08-04 23:49:09,708 | INFO | Generating report for Avalon Technologies
+2026-08-04 23:49:09,709 | INFO | Starting Market Intelligence workflow: Avalon Technologies
+2026-08-04 23:49:10,496 | INFO | HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+2026-08-04 23:58:00,688 | INFO | HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-08-04 23:58:00,734 | INFO | Market Agent completed: Avalon Technologies
+2026-08-04 23:58:00,751 | INFO | Report generated: Avalon Technologies

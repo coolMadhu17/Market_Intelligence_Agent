@@ -1,0 +1,901 @@
+2026-07-23 00:35:20,632 | INFO | Starting Online News Agent
+2026-07-23 00:35:20,632 | INFO | Loading configuration...
+2026-07-23 00:35:20,636 | INFO | 5 competitors loaded
+2026-07-23 00:35:20,636 | INFO | 12 keywords loaded
+2026-07-23 00:35:20,636 | INFO | 5 sources configured
+2026-07-23 00:35:20,651 | INFO | Starting Google News Collection
+2026-07-23 00:35:20,651 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Flex%22%20factory%20closure
+2026-07-23 00:35:21,938 | INFO | Flex + factory closure -> 56 articles
+2026-07-23 00:35:21,938 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Flex%22%20strike
+2026-07-23 00:35:22,936 | INFO | Flex + strike -> 71 articles
+2026-07-23 00:35:22,937 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Flex%22%20plant%20expansion
+2026-07-23 00:35:23,738 | INFO | Flex + plant expansion -> 64 articles
+2026-07-23 00:35:23,738 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Flex%22%20layoffs
+2026-07-23 00:35:24,533 | INFO | Flex + layoffs -> 62 articles
+2026-07-23 00:35:24,533 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Flex%22%20bankruptcy
+2026-07-23 00:35:25,275 | INFO | Flex + bankruptcy -> 56 articles
+2026-07-23 00:35:25,275 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Flex%22%20investment
+2026-07-23 00:35:26,163 | INFO | Flex + investment -> 100 articles
+2026-07-23 00:35:26,163 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Flex%22%20supplier
+2026-07-23 00:35:26,847 | INFO | Flex + supplier -> 66 articles
+2026-07-23 00:35:26,847 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Flex%22%20export
+2026-07-23 00:35:27,485 | INFO | Flex + export -> 64 articles
+2026-07-23 00:35:27,485 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Flex%22%20import
+2026-07-23 00:35:27,997 | INFO | Flex + import -> 51 articles
+2026-07-23 00:35:27,999 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Flex%22%20semiconductor
+2026-07-23 00:35:28,642 | INFO | Flex + semiconductor -> 62 articles
+2026-07-23 00:35:28,648 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Flex%22%20acquisition
+2026-07-23 00:35:29,364 | INFO | Flex + acquisition -> 100 articles
+2026-07-23 00:35:29,364 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Flex%22%20outsourcing
+2026-07-23 00:35:29,850 | INFO | Flex + outsourcing -> 53 articles
+2026-07-23 00:35:29,850 | INFO | Flex + outsourcing -> 53 articles
+2026-07-23 00:35:29,850 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Jabil%22%20factory%20closure
+2026-07-23 00:35:30,300 | INFO | Jabil + factory closure -> 49 articles
+2026-07-23 00:35:30,301 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Jabil%22%20strike
+2026-07-23 00:35:30,813 | INFO | Jabil + strike -> 17 articles
+2026-07-23 00:35:30,813 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Jabil%22%20plant%20expansion
+2026-07-23 00:35:31,505 | INFO | Jabil + plant expansion -> 50 articles
+2026-07-23 00:35:31,505 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Jabil%22%20layoffs
+2026-07-23 00:35:31,898 | INFO | Jabil + layoffs -> 36 articles
+2026-07-23 00:35:31,898 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Jabil%22%20bankruptcy
+2026-07-23 00:35:32,197 | INFO | Jabil + bankruptcy -> 13 articles
+2026-07-23 00:35:32,197 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Jabil%22%20investment
+2026-07-23 00:35:33,106 | INFO | Jabil + investment -> 100 articles
+2026-07-23 00:35:33,106 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Jabil%22%20supplier
+2026-07-23 00:35:33,645 | INFO | Starting Online News Agent
+2026-07-23 00:35:33,645 | INFO | Loading configuration...
+2026-07-23 00:35:33,645 | INFO | 5 competitors loaded
+2026-07-23 00:35:33,645 | INFO | 12 keywords loaded
+2026-07-23 00:35:33,645 | INFO | 5 sources configured
+2026-07-23 00:35:33,660 | INFO | Starting Google News Collection
+2026-07-23 00:35:33,660 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Flex%22%20factory%20closure
+2026-07-23 00:35:33,727 | INFO | Jabil + supplier -> 66 articles
+2026-07-23 00:35:33,729 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Jabil%22%20export
+2026-07-23 00:35:34,130 | INFO | Jabil + export -> 33 articles
+2026-07-23 00:35:34,131 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Jabil%22%20import
+2026-07-23 00:35:34,199 | INFO | Flex + factory closure -> 56 articles
+2026-07-23 00:35:34,199 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Flex%22%20strike
+2026-07-23 00:35:34,300 | INFO | Flex + strike -> 71 articles
+2026-07-23 00:35:34,300 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Flex%22%20plant%20expansion
+2026-07-23 00:35:34,471 | INFO | Flex + plant expansion -> 64 articles
+2026-07-23 00:35:34,471 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Flex%22%20layoffs
+2026-07-23 00:35:34,569 | INFO | Flex + layoffs -> 62 articles
+2026-07-23 00:35:34,569 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Flex%22%20bankruptcy
+2026-07-23 00:35:34,647 | INFO | Jabil + import -> 22 articles
+2026-07-23 00:35:34,647 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Jabil%22%20semiconductor
+2026-07-23 00:35:34,731 | INFO | Flex + bankruptcy -> 56 articles
+2026-07-23 00:35:34,732 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Flex%22%20investment
+2026-07-23 00:35:34,842 | INFO | Flex + investment -> 100 articles
+2026-07-23 00:35:34,842 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Flex%22%20supplier
+2026-07-23 00:35:34,993 | INFO | Flex + supplier -> 66 articles
+2026-07-23 00:35:34,993 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Flex%22%20export
+2026-07-23 00:35:35,102 | INFO | Flex + export -> 64 articles
+2026-07-23 00:35:35,102 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Flex%22%20import
+2026-07-23 00:35:35,263 | INFO | Flex + import -> 51 articles
+2026-07-23 00:35:35,263 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Flex%22%20semiconductor
+2026-07-23 00:35:35,332 | INFO | Jabil + semiconductor -> 51 articles
+2026-07-23 00:35:35,333 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Jabil%22%20acquisition
+2026-07-23 00:35:35,362 | INFO | Flex + semiconductor -> 62 articles
+2026-07-23 00:35:35,363 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Flex%22%20acquisition
+2026-07-23 00:35:35,541 | INFO | Flex + acquisition -> 100 articles
+2026-07-23 00:35:35,544 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Flex%22%20outsourcing
+2026-07-23 00:35:35,629 | INFO | Flex + outsourcing -> 53 articles
+2026-07-23 00:35:35,629 | INFO | Flex + outsourcing -> 53 articles
+2026-07-23 00:35:35,629 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Jabil%22%20factory%20closure
+2026-07-23 00:35:35,799 | INFO | Jabil + factory closure -> 49 articles
+2026-07-23 00:35:35,800 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Jabil%22%20strike
+2026-07-23 00:35:35,879 | INFO | Jabil + strike -> 17 articles
+2026-07-23 00:35:35,880 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Jabil%22%20plant%20expansion
+2026-07-23 00:35:35,978 | INFO | Jabil + acquisition -> 98 articles
+2026-07-23 00:35:35,978 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Jabil%22%20outsourcing
+2026-07-23 00:35:36,085 | INFO | Jabil + plant expansion -> 50 articles
+2026-07-23 00:35:36,085 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Jabil%22%20layoffs
+2026-07-23 00:35:36,165 | INFO | Jabil + layoffs -> 36 articles
+2026-07-23 00:35:36,165 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Jabil%22%20bankruptcy
+2026-07-23 00:35:36,335 | INFO | Jabil + bankruptcy -> 13 articles
+2026-07-23 00:35:36,335 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Jabil%22%20investment
+2026-07-23 00:35:36,443 | INFO | Jabil + investment -> 100 articles
+2026-07-23 00:35:36,443 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Jabil%22%20supplier
+2026-07-23 00:35:36,501 | INFO | Jabil + outsourcing -> 35 articles
+2026-07-23 00:35:36,501 | INFO | Jabil + outsourcing -> 35 articles
+2026-07-23 00:35:36,502 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Foxconn%22%20factory%20closure
+2026-07-23 00:35:36,604 | INFO | Jabil + supplier -> 66 articles
+2026-07-23 00:35:36,604 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Jabil%22%20export
+2026-07-23 00:35:36,707 | INFO | Jabil + export -> 33 articles
+2026-07-23 00:35:36,707 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Jabil%22%20import
+2026-07-23 00:35:36,781 | INFO | Jabil + import -> 22 articles
+2026-07-23 00:35:36,783 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Jabil%22%20semiconductor
+2026-07-23 00:35:36,875 | INFO | Jabil + semiconductor -> 51 articles
+2026-07-23 00:35:36,875 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Jabil%22%20acquisition
+2026-07-23 00:35:36,953 | INFO | Foxconn + factory closure -> 53 articles
+2026-07-23 00:35:36,954 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Foxconn%22%20strike
+2026-07-23 00:35:36,990 | INFO | Jabil + acquisition -> 98 articles
+2026-07-23 00:35:36,991 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Jabil%22%20outsourcing
+2026-07-23 00:35:37,074 | INFO | Jabil + outsourcing -> 35 articles
+2026-07-23 00:35:37,074 | INFO | Jabil + outsourcing -> 35 articles
+2026-07-23 00:35:37,074 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Foxconn%22%20factory%20closure
+2026-07-23 00:35:37,184 | INFO | Foxconn + factory closure -> 53 articles
+2026-07-23 00:35:37,184 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Foxconn%22%20strike
+2026-07-23 00:35:37,551 | INFO | Foxconn + strike -> 55 articles
+2026-07-23 00:35:37,551 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Foxconn%22%20plant%20expansion
+2026-07-23 00:35:37,613 | INFO | Foxconn + strike -> 55 articles
+2026-07-23 00:35:37,614 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Foxconn%22%20plant%20expansion
+2026-07-23 00:35:37,982 | INFO | Foxconn + plant expansion -> 62 articles
+2026-07-23 00:35:37,982 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Foxconn%22%20layoffs
+2026-07-23 00:35:38,064 | INFO | Foxconn + plant expansion -> 62 articles
+2026-07-23 00:35:38,064 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Foxconn%22%20layoffs
+2026-07-23 00:35:38,705 | INFO | Foxconn + layoffs -> 53 articles
+2026-07-23 00:35:38,705 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Foxconn%22%20bankruptcy
+2026-07-23 00:35:38,769 | INFO | Foxconn + layoffs -> 53 articles
+2026-07-23 00:35:38,769 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Foxconn%22%20bankruptcy
+2026-07-23 00:35:39,057 | INFO | Foxconn + bankruptcy -> 47 articles
+2026-07-23 00:35:39,057 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Foxconn%22%20investment
+2026-07-23 00:35:39,120 | INFO | Foxconn + bankruptcy -> 47 articles
+2026-07-23 00:35:39,120 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Foxconn%22%20investment
+2026-07-23 00:35:39,701 | INFO | Foxconn + investment -> 100 articles
+2026-07-23 00:35:39,701 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Foxconn%22%20supplier
+2026-07-23 00:35:39,829 | INFO | Foxconn + investment -> 100 articles
+2026-07-23 00:35:39,829 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Foxconn%22%20supplier
+2026-07-23 00:35:40,382 | INFO | Foxconn + supplier -> 100 articles
+2026-07-23 00:35:40,382 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Foxconn%22%20export
+2026-07-23 00:35:40,501 | INFO | Foxconn + supplier -> 100 articles
+2026-07-23 00:35:40,501 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Foxconn%22%20export
+2026-07-23 00:35:40,850 | INFO | Foxconn + export -> 70 articles
+2026-07-23 00:35:40,850 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Foxconn%22%20import
+2026-07-23 00:35:40,948 | INFO | Foxconn + export -> 70 articles
+2026-07-23 00:35:40,948 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Foxconn%22%20import
+2026-07-23 00:35:41,277 | INFO | Foxconn + import -> 59 articles
+2026-07-23 00:35:41,277 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Foxconn%22%20semiconductor
+2026-07-23 00:35:41,352 | INFO | Foxconn + import -> 59 articles
+2026-07-23 00:35:41,353 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Foxconn%22%20semiconductor
+2026-07-23 00:35:41,864 | INFO | Foxconn + semiconductor -> 100 articles
+2026-07-23 00:35:41,864 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Foxconn%22%20acquisition
+2026-07-23 00:35:41,991 | INFO | Foxconn + semiconductor -> 100 articles
+2026-07-23 00:35:41,991 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Foxconn%22%20acquisition
+2026-07-23 00:35:42,428 | INFO | Foxconn + acquisition -> 100 articles
+2026-07-23 00:35:42,428 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Foxconn%22%20outsourcing
+2026-07-23 00:35:42,556 | INFO | Foxconn + acquisition -> 100 articles
+2026-07-23 00:35:42,556 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Foxconn%22%20outsourcing
+2026-07-23 00:35:42,870 | INFO | Foxconn + outsourcing -> 49 articles
+2026-07-23 00:35:42,870 | INFO | Foxconn + outsourcing -> 49 articles
+2026-07-23 00:35:42,870 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Kaynes%22%20factory%20closure
+2026-07-23 00:35:42,930 | INFO | Foxconn + outsourcing -> 49 articles
+2026-07-23 00:35:42,930 | INFO | Foxconn + outsourcing -> 49 articles
+2026-07-23 00:35:42,931 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Kaynes%22%20factory%20closure
+2026-07-23 00:35:43,492 | INFO | Kaynes + factory closure -> 52 articles
+2026-07-23 00:35:43,492 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Kaynes%22%20strike
+2026-07-23 00:35:43,572 | INFO | Kaynes + factory closure -> 52 articles
+2026-07-23 00:35:43,572 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Kaynes%22%20strike
+2026-07-23 00:35:43,815 | INFO | Kaynes + strike -> 16 articles
+2026-07-23 00:35:43,816 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Kaynes%22%20plant%20expansion
+2026-07-23 00:35:43,837 | INFO | Kaynes + strike -> 16 articles
+2026-07-23 00:35:43,838 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Kaynes%22%20plant%20expansion
+2026-07-23 00:35:44,198 | INFO | Kaynes + plant expansion -> 51 articles
+2026-07-23 00:35:44,198 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Kaynes%22%20layoffs
+2026-07-23 00:35:44,272 | INFO | Kaynes + plant expansion -> 51 articles
+2026-07-23 00:35:44,273 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Kaynes%22%20layoffs
+2026-07-23 00:35:44,478 | INFO | Kaynes + layoffs -> 5 articles
+2026-07-23 00:35:44,479 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Kaynes%22%20bankruptcy
+2026-07-23 00:35:44,484 | INFO | Kaynes + layoffs -> 5 articles
+2026-07-23 00:35:44,484 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Kaynes%22%20bankruptcy
+2026-07-23 00:35:44,728 | INFO | Kaynes + bankruptcy -> 1 articles
+2026-07-23 00:35:44,729 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Kaynes%22%20investment
+2026-07-23 00:35:44,733 | INFO | Kaynes + bankruptcy -> 1 articles
+2026-07-23 00:35:44,734 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Kaynes%22%20investment
+2026-07-23 00:35:45,215 | INFO | Kaynes + investment -> 100 articles
+2026-07-23 00:35:45,219 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Kaynes%22%20supplier
+2026-07-23 00:35:45,352 | INFO | Kaynes + investment -> 100 articles
+2026-07-23 00:35:45,353 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Kaynes%22%20supplier
+2026-07-23 00:35:45,593 | INFO | Kaynes + supplier -> 49 articles
+2026-07-23 00:35:45,601 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Kaynes%22%20export
+2026-07-23 00:35:45,664 | INFO | Kaynes + supplier -> 49 articles
+2026-07-23 00:35:45,665 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Kaynes%22%20export
+2026-07-23 00:35:46,078 | INFO | Kaynes + export -> 57 articles
+2026-07-23 00:35:46,078 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Kaynes%22%20import
+2026-07-23 00:35:46,159 | INFO | Kaynes + export -> 57 articles
+2026-07-23 00:35:46,161 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Kaynes%22%20import
+2026-07-23 00:35:46,506 | INFO | Kaynes + import -> 56 articles
+2026-07-23 00:35:46,507 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Kaynes%22%20semiconductor
+2026-07-23 00:35:46,577 | INFO | Kaynes + import -> 56 articles
+2026-07-23 00:35:46,578 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Kaynes%22%20semiconductor
+2026-07-23 00:35:47,040 | INFO | Kaynes + semiconductor -> 100 articles
+2026-07-23 00:35:47,040 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Kaynes%22%20acquisition
+2026-07-23 00:35:47,171 | INFO | Kaynes + semiconductor -> 100 articles
+2026-07-23 00:35:47,171 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Kaynes%22%20acquisition
+2026-07-23 00:35:47,406 | INFO | Kaynes + acquisition -> 52 articles
+2026-07-23 00:35:47,407 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Kaynes%22%20outsourcing
+2026-07-23 00:35:47,481 | INFO | Kaynes + acquisition -> 52 articles
+2026-07-23 00:35:47,482 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Kaynes%22%20outsourcing
+2026-07-23 00:35:47,788 | INFO | Kaynes + outsourcing -> 49 articles
+2026-07-23 00:35:47,788 | INFO | Kaynes + outsourcing -> 49 articles
+2026-07-23 00:35:47,788 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Bosch%22%20factory%20closure
+2026-07-23 00:35:47,864 | INFO | Kaynes + outsourcing -> 49 articles
+2026-07-23 00:35:47,865 | INFO | Kaynes + outsourcing -> 49 articles
+2026-07-23 00:35:47,866 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Bosch%22%20factory%20closure
+2026-07-23 00:35:48,243 | INFO | Bosch + factory closure -> 57 articles
+2026-07-23 00:35:48,243 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Bosch%22%20strike
+2026-07-23 00:35:48,332 | INFO | Bosch + factory closure -> 57 articles
+2026-07-23 00:35:48,332 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Bosch%22%20strike
+2026-07-23 00:35:48,779 | INFO | Bosch + strike -> 63 articles
+2026-07-23 00:35:48,779 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Bosch%22%20plant%20expansion
+2026-07-23 00:35:48,856 | INFO | Bosch + strike -> 63 articles
+2026-07-23 00:35:48,856 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Bosch%22%20plant%20expansion
+2026-07-23 00:35:49,393 | INFO | Bosch + plant expansion -> 54 articles
+2026-07-23 00:35:49,394 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Bosch%22%20layoffs
+2026-07-23 00:35:49,470 | INFO | Bosch + plant expansion -> 54 articles
+2026-07-23 00:35:49,470 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Bosch%22%20layoffs
+2026-07-23 00:35:50,227 | INFO | Bosch + layoffs -> 100 articles
+2026-07-23 00:35:50,228 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Bosch%22%20bankruptcy
+2026-07-23 00:35:50,356 | INFO | Bosch + layoffs -> 100 articles
+2026-07-23 00:35:50,356 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Bosch%22%20bankruptcy
+2026-07-23 00:35:50,636 | INFO | Bosch + bankruptcy -> 55 articles
+2026-07-23 00:35:50,636 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Bosch%22%20investment
+2026-07-23 00:35:50,708 | INFO | Bosch + bankruptcy -> 55 articles
+2026-07-23 00:35:50,710 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Bosch%22%20investment
+2026-07-23 00:35:51,297 | INFO | Bosch + investment -> 100 articles
+2026-07-23 00:35:51,297 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Bosch%22%20supplier
+2026-07-23 00:35:51,427 | INFO | Bosch + investment -> 100 articles
+2026-07-23 00:35:51,427 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Bosch%22%20supplier
+2026-07-23 00:35:51,872 | INFO | Bosch + supplier -> 100 articles
+2026-07-23 00:35:51,872 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Bosch%22%20export
+2026-07-23 00:35:51,984 | INFO | Bosch + supplier -> 100 articles
+2026-07-23 00:35:51,985 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Bosch%22%20export
+2026-07-23 00:35:52,323 | INFO | Bosch + export -> 64 articles
+2026-07-23 00:35:52,326 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Bosch%22%20import
+2026-07-23 00:35:52,407 | INFO | Bosch + export -> 64 articles
+2026-07-23 00:35:52,407 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Bosch%22%20import
+2026-07-23 00:35:52,774 | INFO | Bosch + import -> 71 articles
+2026-07-23 00:35:52,774 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Bosch%22%20semiconductor
+2026-07-23 00:35:52,867 | INFO | Bosch + import -> 71 articles
+2026-07-23 00:35:52,871 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Bosch%22%20semiconductor
+2026-07-23 00:35:53,280 | INFO | Bosch + semiconductor -> 100 articles
+2026-07-23 00:35:53,280 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Bosch%22%20acquisition
+2026-07-23 00:35:53,433 | INFO | Bosch + semiconductor -> 100 articles
+2026-07-23 00:35:53,436 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Bosch%22%20acquisition
+2026-07-23 00:35:53,845 | INFO | Bosch + acquisition -> 100 articles
+2026-07-23 00:35:53,845 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Bosch%22%20outsourcing
+2026-07-23 00:35:53,957 | INFO | Bosch + acquisition -> 100 articles
+2026-07-23 00:35:53,957 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Bosch%22%20outsourcing
+2026-07-23 00:35:54,382 | INFO | Bosch + outsourcing -> 39 articles
+2026-07-23 00:35:54,382 | INFO | Bosch + outsourcing -> 39 articles
+2026-07-23 00:35:54,382 | INFO | Google News Collection Completed
+2026-07-23 00:35:54,382 | INFO | Module-1 completed successfully
+2026-07-23 00:35:54,449 | INFO | Bosch + outsourcing -> 39 articles
+2026-07-23 00:35:54,449 | INFO | Bosch + outsourcing -> 39 articles
+2026-07-23 00:35:54,449 | INFO | Google News Collection Completed
+2026-07-23 00:35:54,449 | INFO | Module-1 completed successfully
+2026-07-23 01:07:56,400 | INFO | Starting Online News Agent
+2026-07-23 01:07:56,401 | INFO | Loading configuration...
+2026-07-23 01:07:56,406 | INFO | 3 competitors loaded
+2026-07-23 01:07:56,406 | INFO | 12 keywords loaded
+2026-07-23 01:07:56,407 | INFO | 5 sources configured
+2026-07-23 01:07:56,415 | INFO | Starting Google News Collection
+2026-07-23 01:07:56,415 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Flex%22%20factory%20closure
+2026-07-23 01:07:57,644 | INFO | Flex + factory closure -> 56 articles
+2026-07-23 01:07:57,644 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Flex%22%20strike
+2026-07-23 01:07:58,289 | INFO | Flex + strike -> 71 articles
+2026-07-23 01:07:58,289 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Flex%22%20plant%20expansion
+2026-07-23 01:07:59,021 | INFO | Flex + plant expansion -> 64 articles
+2026-07-23 01:07:59,021 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Flex%22%20layoffs
+2026-07-23 01:07:59,858 | INFO | Flex + layoffs -> 63 articles
+2026-07-23 01:07:59,858 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Flex%22%20bankruptcy
+2026-07-23 01:08:00,545 | INFO | Flex + bankruptcy -> 56 articles
+2026-07-23 01:08:00,545 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Flex%22%20investment
+2026-07-23 01:08:01,437 | INFO | Flex + investment -> 100 articles
+2026-07-23 01:08:01,437 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Flex%22%20supplier
+2026-07-23 01:08:02,175 | INFO | Flex + supplier -> 66 articles
+2026-07-23 01:08:02,175 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Flex%22%20export
+2026-07-23 01:08:03,036 | INFO | Flex + export -> 64 articles
+2026-07-23 01:08:03,036 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Flex%22%20import
+2026-07-23 01:08:03,653 | INFO | Flex + import -> 51 articles
+2026-07-23 01:08:03,653 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Flex%22%20semiconductor
+2026-07-23 01:08:04,172 | INFO | Flex + semiconductor -> 62 articles
+2026-07-23 01:08:04,172 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Flex%22%20acquisition
+2026-07-23 01:08:04,903 | INFO | Flex + acquisition -> 100 articles
+2026-07-23 01:08:04,903 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Flex%22%20outsourcing
+2026-07-23 01:08:05,400 | INFO | Flex + outsourcing -> 53 articles
+2026-07-23 01:08:05,400 | INFO | Flex + outsourcing -> 53 articles
+2026-07-23 01:08:05,400 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Jabil%22%20factory%20closure
+2026-07-23 01:08:06,005 | INFO | Jabil + factory closure -> 49 articles
+2026-07-23 01:08:06,005 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Jabil%22%20strike
+2026-07-23 01:08:06,419 | INFO | Jabil + strike -> 17 articles
+2026-07-23 01:08:06,419 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Jabil%22%20plant%20expansion
+2026-07-23 01:08:06,940 | INFO | Jabil + plant expansion -> 50 articles
+2026-07-23 01:08:06,940 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Jabil%22%20layoffs
+2026-07-23 01:08:07,413 | INFO | Jabil + layoffs -> 37 articles
+2026-07-23 01:08:07,414 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Jabil%22%20bankruptcy
+2026-07-23 01:08:07,689 | INFO | Jabil + bankruptcy -> 13 articles
+2026-07-23 01:08:07,689 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Jabil%22%20investment
+2026-07-23 01:08:08,431 | INFO | Jabil + investment -> 100 articles
+2026-07-23 01:08:08,431 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Jabil%22%20supplier
+2026-07-23 01:08:08,962 | INFO | Jabil + supplier -> 66 articles
+2026-07-23 01:08:08,962 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Jabil%22%20export
+2026-07-23 01:08:09,422 | INFO | Jabil + export -> 33 articles
+2026-07-23 01:08:09,435 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Jabil%22%20import
+2026-07-23 01:08:09,908 | INFO | Jabil + import -> 22 articles
+2026-07-23 01:08:09,908 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Jabil%22%20semiconductor
+2026-07-23 01:08:10,334 | INFO | Jabil + semiconductor -> 51 articles
+2026-07-23 01:08:10,334 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Jabil%22%20acquisition
+2026-07-23 01:08:11,017 | INFO | Jabil + acquisition -> 98 articles
+2026-07-23 01:08:11,017 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Jabil%22%20outsourcing
+2026-07-23 01:08:11,451 | INFO | Jabil + outsourcing -> 35 articles
+2026-07-23 01:08:11,451 | INFO | Jabil + outsourcing -> 35 articles
+2026-07-23 01:08:11,451 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Kaynes%22%20factory%20closure
+2026-07-23 01:08:11,905 | INFO | Kaynes + factory closure -> 52 articles
+2026-07-23 01:08:11,905 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Kaynes%22%20strike
+2026-07-23 01:08:12,337 | INFO | Kaynes + strike -> 16 articles
+2026-07-23 01:08:12,337 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Kaynes%22%20plant%20expansion
+2026-07-23 01:08:12,745 | INFO | Kaynes + plant expansion -> 51 articles
+2026-07-23 01:08:12,745 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Kaynes%22%20layoffs
+2026-07-23 01:08:12,999 | INFO | Kaynes + layoffs -> 5 articles
+2026-07-23 01:08:12,999 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Kaynes%22%20bankruptcy
+2026-07-23 01:08:13,344 | INFO | Kaynes + bankruptcy -> 1 articles
+2026-07-23 01:08:13,346 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Kaynes%22%20investment
+2026-07-23 01:08:13,924 | INFO | Kaynes + investment -> 100 articles
+2026-07-23 01:08:13,924 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Kaynes%22%20supplier
+2026-07-23 01:08:14,341 | INFO | Kaynes + supplier -> 49 articles
+2026-07-23 01:08:14,341 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Kaynes%22%20export
+2026-07-23 01:08:14,809 | INFO | Kaynes + export -> 57 articles
+2026-07-23 01:08:14,809 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Kaynes%22%20import
+2026-07-23 01:08:15,256 | INFO | Kaynes + import -> 56 articles
+2026-07-23 01:08:15,256 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Kaynes%22%20semiconductor
+2026-07-23 01:08:15,852 | INFO | Kaynes + semiconductor -> 100 articles
+2026-07-23 01:08:15,854 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Kaynes%22%20acquisition
+2026-07-23 01:08:16,266 | INFO | Kaynes + acquisition -> 52 articles
+2026-07-23 01:08:16,266 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Kaynes%22%20outsourcing
+2026-07-23 01:08:16,664 | INFO | Kaynes + outsourcing -> 49 articles
+2026-07-23 01:08:16,664 | INFO | Kaynes + outsourcing -> 49 articles
+2026-07-23 01:08:16,664 | INFO | Google News Collection Completed
+2026-07-23 01:19:17,772 | INFO | Starting Online News Agent
+2026-07-23 01:19:17,772 | INFO | Loading configuration...
+2026-07-23 01:19:17,773 | INFO | 3 competitors loaded
+2026-07-23 01:19:17,774 | INFO | 12 keywords loaded
+2026-07-23 01:19:17,774 | INFO | 5 sources configured
+2026-07-23 01:19:17,778 | INFO | Starting Google News Collection
+2026-07-23 01:19:17,779 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Flex%22%20factory%20closure
+2026-07-23 01:19:18,604 | INFO | Flex + factory closure -> 56 articles
+2026-07-23 01:19:18,604 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Flex%22%20strike
+2026-07-23 01:19:19,287 | INFO | Flex + strike -> 71 articles
+2026-07-23 01:19:19,287 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Flex%22%20plant%20expansion
+2026-07-23 01:19:19,871 | INFO | Flex + plant expansion -> 64 articles
+2026-07-23 01:19:19,871 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Flex%22%20layoffs
+2026-07-23 01:19:20,495 | INFO | Flex + layoffs -> 63 articles
+2026-07-23 01:19:20,495 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Flex%22%20bankruptcy
+2026-07-23 01:19:21,106 | INFO | Flex + bankruptcy -> 56 articles
+2026-07-23 01:19:21,106 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Flex%22%20investment
+2026-07-23 01:19:21,840 | INFO | Flex + investment -> 100 articles
+2026-07-23 01:19:21,840 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Flex%22%20supplier
+2026-07-23 01:19:22,660 | INFO | Flex + supplier -> 67 articles
+2026-07-23 01:19:22,660 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Flex%22%20export
+2026-07-23 01:19:23,228 | INFO | Flex + export -> 64 articles
+2026-07-23 01:19:23,228 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Flex%22%20import
+2026-07-23 01:19:23,765 | INFO | Flex + import -> 51 articles
+2026-07-23 01:19:23,765 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Flex%22%20semiconductor
+2026-07-23 01:19:24,567 | INFO | Flex + semiconductor -> 62 articles
+2026-07-23 01:19:24,567 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Flex%22%20acquisition
+2026-07-23 01:19:25,017 | INFO | Flex + acquisition -> 100 articles
+2026-07-23 01:19:25,017 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Flex%22%20outsourcing
+2026-07-23 01:19:25,427 | INFO | Flex + outsourcing -> 53 articles
+2026-07-23 01:19:25,427 | INFO | Flex + outsourcing -> 53 articles
+2026-07-23 01:19:25,427 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Jabil%22%20factory%20closure
+2026-07-23 01:19:25,766 | INFO | Jabil + factory closure -> 49 articles
+2026-07-23 01:19:25,766 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Jabil%22%20strike
+2026-07-23 01:19:26,109 | INFO | Jabil + strike -> 17 articles
+2026-07-23 01:19:26,109 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Jabil%22%20plant%20expansion
+2026-07-23 01:19:26,508 | INFO | Jabil + plant expansion -> 50 articles
+2026-07-23 01:19:26,508 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Jabil%22%20layoffs
+2026-07-23 01:19:26,894 | INFO | Jabil + layoffs -> 37 articles
+2026-07-23 01:19:26,894 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Jabil%22%20bankruptcy
+2026-07-23 01:19:27,274 | INFO | Jabil + bankruptcy -> 13 articles
+2026-07-23 01:19:27,274 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Jabil%22%20investment
+2026-07-23 01:19:27,790 | INFO | Jabil + investment -> 100 articles
+2026-07-23 01:19:27,790 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Jabil%22%20supplier
+2026-07-23 01:19:28,242 | INFO | Jabil + supplier -> 66 articles
+2026-07-23 01:19:28,242 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Jabil%22%20export
+2026-07-23 01:19:28,543 | INFO | Jabil + export -> 33 articles
+2026-07-23 01:19:28,544 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Jabil%22%20import
+2026-07-23 01:19:28,864 | INFO | Jabil + import -> 22 articles
+2026-07-23 01:19:28,875 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Jabil%22%20semiconductor
+2026-07-23 01:19:29,387 | INFO | Jabil + semiconductor -> 51 articles
+2026-07-23 01:19:29,389 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Jabil%22%20acquisition
+2026-07-23 01:19:29,879 | INFO | Jabil + acquisition -> 98 articles
+2026-07-23 01:19:29,879 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Jabil%22%20outsourcing
+2026-07-23 01:19:30,187 | INFO | Jabil + outsourcing -> 36 articles
+2026-07-23 01:19:30,187 | INFO | Jabil + outsourcing -> 36 articles
+2026-07-23 01:19:30,187 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Kaynes%22%20factory%20closure
+2026-07-23 01:19:30,522 | INFO | Kaynes + factory closure -> 52 articles
+2026-07-23 01:19:30,538 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Kaynes%22%20strike
+2026-07-23 01:19:30,900 | INFO | Kaynes + strike -> 16 articles
+2026-07-23 01:19:30,900 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Kaynes%22%20plant%20expansion
+2026-07-23 01:19:31,374 | INFO | Kaynes + plant expansion -> 51 articles
+2026-07-23 01:19:31,374 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Kaynes%22%20layoffs
+2026-07-23 01:19:31,652 | INFO | Kaynes + layoffs -> 5 articles
+2026-07-23 01:19:31,654 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Kaynes%22%20bankruptcy
+2026-07-23 01:19:32,012 | INFO | Kaynes + bankruptcy -> 1 articles
+2026-07-23 01:19:32,012 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Kaynes%22%20investment
+2026-07-23 01:19:32,593 | INFO | Kaynes + investment -> 100 articles
+2026-07-23 01:19:32,593 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Kaynes%22%20supplier
+2026-07-23 01:19:32,970 | INFO | Kaynes + supplier -> 49 articles
+2026-07-23 01:19:32,970 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Kaynes%22%20export
+2026-07-23 01:19:33,372 | INFO | Kaynes + export -> 57 articles
+2026-07-23 01:19:33,372 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Kaynes%22%20import
+2026-07-23 01:19:33,927 | INFO | Kaynes + import -> 56 articles
+2026-07-23 01:19:33,928 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Kaynes%22%20semiconductor
+2026-07-23 01:19:34,422 | INFO | Kaynes + semiconductor -> 100 articles
+2026-07-23 01:19:34,437 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Kaynes%22%20acquisition
+2026-07-23 01:19:34,872 | INFO | Kaynes + acquisition -> 52 articles
+2026-07-23 01:19:34,872 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Kaynes%22%20outsourcing
+2026-07-23 01:19:35,221 | INFO | Kaynes + outsourcing -> 49 articles
+2026-07-23 01:19:35,221 | INFO | Kaynes + outsourcing -> 49 articles
+2026-07-23 01:19:35,221 | INFO | Google News Collection Completed
+2026-07-23 01:31:01,139 | INFO | Starting Online News Agent
+2026-07-23 01:31:01,139 | INFO | Loading configuration...
+2026-07-23 01:31:01,152 | INFO | 3 competitors loaded
+2026-07-23 01:31:01,152 | INFO | 12 keywords loaded
+2026-07-23 01:31:01,152 | INFO | 5 sources configured
+2026-07-23 01:31:01,172 | INFO | Starting Google News Collection
+2026-07-23 01:31:01,174 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Flex%22%20factory%20closure
+2026-07-23 01:31:02,562 | INFO | Flex + factory closure -> 56 articles
+2026-07-23 01:31:02,562 | INFO | Flex + factory closure -> 56 articles
+2026-07-23 01:31:02,562 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Flex%22%20strike
+2026-07-23 01:31:03,208 | INFO | Flex + strike -> 71 articles
+2026-07-23 01:31:03,208 | INFO | Flex + strike -> 71 articles
+2026-07-23 01:31:03,208 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Flex%22%20plant%20expansion
+2026-07-23 01:31:03,951 | INFO | Flex + plant expansion -> 64 articles
+2026-07-23 01:31:03,951 | INFO | Flex + plant expansion -> 64 articles
+2026-07-23 01:31:03,951 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Flex%22%20layoffs
+2026-07-23 01:31:04,628 | INFO | Flex + layoffs -> 63 articles
+2026-07-23 01:31:04,628 | INFO | Flex + layoffs -> 63 articles
+2026-07-23 01:31:04,628 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Flex%22%20bankruptcy
+2026-07-23 01:31:05,217 | INFO | Flex + bankruptcy -> 56 articles
+2026-07-23 01:31:05,217 | INFO | Flex + bankruptcy -> 56 articles
+2026-07-23 01:31:05,217 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Flex%22%20investment
+2026-07-23 01:31:06,120 | INFO | Flex + investment -> 100 articles
+2026-07-23 01:31:06,120 | INFO | Flex + investment -> 100 articles
+2026-07-23 01:31:06,120 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Flex%22%20supplier
+2026-07-23 01:31:06,755 | INFO | Flex + supplier -> 66 articles
+2026-07-23 01:31:06,755 | INFO | Flex + supplier -> 66 articles
+2026-07-23 01:31:06,755 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Flex%22%20export
+2026-07-23 01:31:07,381 | INFO | Flex + export -> 64 articles
+2026-07-23 01:31:07,381 | INFO | Flex + export -> 64 articles
+2026-07-23 01:31:07,381 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Flex%22%20import
+2026-07-23 01:31:08,013 | INFO | Flex + import -> 51 articles
+2026-07-23 01:31:08,013 | INFO | Flex + import -> 51 articles
+2026-07-23 01:31:08,013 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Flex%22%20semiconductor
+2026-07-23 01:31:08,654 | INFO | Flex + semiconductor -> 62 articles
+2026-07-23 01:31:08,654 | INFO | Flex + semiconductor -> 62 articles
+2026-07-23 01:31:08,654 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Flex%22%20acquisition
+2026-07-23 01:31:09,501 | INFO | Flex + acquisition -> 100 articles
+2026-07-23 01:31:09,501 | INFO | Flex + acquisition -> 100 articles
+2026-07-23 01:31:09,501 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Flex%22%20outsourcing
+2026-07-23 01:31:10,025 | INFO | Flex + outsourcing -> 53 articles
+2026-07-23 01:31:10,025 | INFO | Flex + outsourcing -> 53 articles
+2026-07-23 01:31:10,025 | INFO | Google News Collection Completed
+2026-07-23 01:31:10,025 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Jabil%22%20factory%20closure
+2026-07-23 01:31:10,652 | INFO | Jabil + factory closure -> 49 articles
+2026-07-23 01:31:10,652 | INFO | Jabil + factory closure -> 49 articles
+2026-07-23 01:31:10,652 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Jabil%22%20strike
+2026-07-23 01:31:11,047 | INFO | Jabil + strike -> 17 articles
+2026-07-23 01:31:11,047 | INFO | Jabil + strike -> 17 articles
+2026-07-23 01:31:11,047 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Jabil%22%20plant%20expansion
+2026-07-23 01:31:11,564 | INFO | Jabil + plant expansion -> 50 articles
+2026-07-23 01:31:11,564 | INFO | Jabil + plant expansion -> 50 articles
+2026-07-23 01:31:11,564 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Jabil%22%20layoffs
+2026-07-23 01:31:11,931 | INFO | Jabil + layoffs -> 37 articles
+2026-07-23 01:31:11,931 | INFO | Jabil + layoffs -> 37 articles
+2026-07-23 01:31:11,931 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Jabil%22%20bankruptcy
+2026-07-23 01:31:12,214 | INFO | Jabil + bankruptcy -> 13 articles
+2026-07-23 01:31:12,214 | INFO | Jabil + bankruptcy -> 13 articles
+2026-07-23 01:31:12,214 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Jabil%22%20investment
+2026-07-23 01:31:12,880 | INFO | Jabil + investment -> 100 articles
+2026-07-23 01:31:12,880 | INFO | Jabil + investment -> 100 articles
+2026-07-23 01:31:12,880 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Jabil%22%20supplier
+2026-07-23 01:31:13,444 | INFO | Jabil + supplier -> 66 articles
+2026-07-23 01:31:13,444 | INFO | Jabil + supplier -> 66 articles
+2026-07-23 01:31:13,444 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Jabil%22%20export
+2026-07-23 01:31:13,928 | INFO | Jabil + export -> 33 articles
+2026-07-23 01:31:13,928 | INFO | Jabil + export -> 33 articles
+2026-07-23 01:31:13,928 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Jabil%22%20import
+2026-07-23 01:31:14,342 | INFO | Jabil + import -> 22 articles
+2026-07-23 01:31:14,342 | INFO | Jabil + import -> 22 articles
+2026-07-23 01:31:14,342 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Jabil%22%20semiconductor
+2026-07-23 01:31:14,927 | INFO | Jabil + semiconductor -> 51 articles
+2026-07-23 01:31:14,927 | INFO | Jabil + semiconductor -> 51 articles
+2026-07-23 01:31:14,927 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Jabil%22%20acquisition
+2026-07-23 01:31:15,538 | INFO | Jabil + acquisition -> 98 articles
+2026-07-23 01:31:15,538 | INFO | Jabil + acquisition -> 98 articles
+2026-07-23 01:31:15,539 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Jabil%22%20outsourcing
+2026-07-23 01:31:16,049 | INFO | Jabil + outsourcing -> 35 articles
+2026-07-23 01:31:16,050 | INFO | Jabil + outsourcing -> 35 articles
+2026-07-23 01:31:16,050 | INFO | Google News Collection Completed
+2026-07-23 01:31:16,051 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Kaynes%22%20factory%20closure
+2026-07-23 01:31:16,505 | INFO | Kaynes + factory closure -> 52 articles
+2026-07-23 01:31:16,505 | INFO | Kaynes + factory closure -> 52 articles
+2026-07-23 01:31:16,512 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Kaynes%22%20strike
+2026-07-23 01:31:16,838 | INFO | Kaynes + strike -> 16 articles
+2026-07-23 01:31:16,838 | INFO | Kaynes + strike -> 16 articles
+2026-07-23 01:31:16,838 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Kaynes%22%20plant%20expansion
+2026-07-23 01:31:17,303 | INFO | Kaynes + plant expansion -> 51 articles
+2026-07-23 01:31:17,303 | INFO | Kaynes + plant expansion -> 51 articles
+2026-07-23 01:31:17,304 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Kaynes%22%20layoffs
+2026-07-23 01:31:17,596 | INFO | Kaynes + layoffs -> 5 articles
+2026-07-23 01:31:17,597 | INFO | Kaynes + layoffs -> 5 articles
+2026-07-23 01:31:17,599 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Kaynes%22%20bankruptcy
+2026-07-23 01:31:17,842 | INFO | Kaynes + bankruptcy -> 1 articles
+2026-07-23 01:31:17,842 | INFO | Kaynes + bankruptcy -> 1 articles
+2026-07-23 01:31:17,842 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Kaynes%22%20investment
+2026-07-23 01:31:18,609 | INFO | Kaynes + investment -> 100 articles
+2026-07-23 01:31:18,609 | INFO | Kaynes + investment -> 100 articles
+2026-07-23 01:31:18,611 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Kaynes%22%20supplier
+2026-07-23 01:31:19,051 | INFO | Kaynes + supplier -> 49 articles
+2026-07-23 01:31:19,052 | INFO | Kaynes + supplier -> 49 articles
+2026-07-23 01:31:19,053 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Kaynes%22%20export
+2026-07-23 01:31:19,727 | INFO | Kaynes + export -> 57 articles
+2026-07-23 01:31:19,727 | INFO | Kaynes + export -> 57 articles
+2026-07-23 01:31:19,727 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Kaynes%22%20import
+2026-07-23 01:31:20,207 | INFO | Kaynes + import -> 56 articles
+2026-07-23 01:31:20,207 | INFO | Kaynes + import -> 56 articles
+2026-07-23 01:31:20,207 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Kaynes%22%20semiconductor
+2026-07-23 01:31:20,967 | INFO | Kaynes + semiconductor -> 100 articles
+2026-07-23 01:31:20,967 | INFO | Kaynes + semiconductor -> 100 articles
+2026-07-23 01:31:20,968 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Kaynes%22%20acquisition
+2026-07-23 01:31:21,438 | INFO | Kaynes + acquisition -> 52 articles
+2026-07-23 01:31:21,438 | INFO | Kaynes + acquisition -> 52 articles
+2026-07-23 01:31:21,438 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Kaynes%22%20outsourcing
+2026-07-23 01:31:21,991 | INFO | Kaynes + outsourcing -> 49 articles
+2026-07-23 01:31:21,991 | INFO | Kaynes + outsourcing -> 49 articles
+2026-07-23 01:31:21,991 | INFO | Google News Collection Completed
+2026-07-23 01:31:21,991 | INFO | Module-1 completed successfully
+2026-07-23 01:41:57,831 | INFO | Starting Online News Agent
+2026-07-23 01:41:57,831 | INFO | Loading configuration...
+2026-07-23 01:41:57,831 | INFO | 3 competitors loaded
+2026-07-23 01:41:57,831 | INFO | 12 keywords loaded
+2026-07-23 01:41:57,831 | INFO | 5 sources configured
+2026-07-23 01:41:57,831 | INFO | Starting Google News Collection
+2026-07-23 01:41:57,838 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Flex%22%20factory%20closure
+2026-07-23 01:41:58,616 | INFO | Flex + factory closure -> 56 articles
+2026-07-23 01:41:58,616 | INFO | Flex + factory closure -> 56 articles
+2026-07-23 01:41:58,616 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Flex%22%20strike
+2026-07-23 01:41:59,524 | INFO | Flex + strike -> 71 articles
+2026-07-23 01:41:59,524 | INFO | Flex + strike -> 71 articles
+2026-07-23 01:41:59,526 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Flex%22%20plant%20expansion
+2026-07-23 01:42:00,094 | INFO | Flex + plant expansion -> 64 articles
+2026-07-23 01:42:00,094 | INFO | Flex + plant expansion -> 64 articles
+2026-07-23 01:42:00,094 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Flex%22%20layoffs
+2026-07-23 01:42:00,646 | INFO | Flex + layoffs -> 63 articles
+2026-07-23 01:42:00,648 | INFO | Flex + layoffs -> 63 articles
+2026-07-23 01:42:00,648 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Flex%22%20bankruptcy
+2026-07-23 01:42:01,349 | INFO | Flex + bankruptcy -> 56 articles
+2026-07-23 01:42:01,349 | INFO | Flex + bankruptcy -> 56 articles
+2026-07-23 01:42:01,349 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Flex%22%20investment
+2026-07-23 01:42:01,984 | INFO | Flex + investment -> 100 articles
+2026-07-23 01:42:01,984 | INFO | Flex + investment -> 100 articles
+2026-07-23 01:42:01,984 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Flex%22%20supplier
+2026-07-23 01:42:02,712 | INFO | Flex + supplier -> 65 articles
+2026-07-23 01:42:02,712 | INFO | Flex + supplier -> 65 articles
+2026-07-23 01:42:02,712 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Flex%22%20export
+2026-07-23 01:42:03,343 | INFO | Flex + export -> 64 articles
+2026-07-23 01:42:03,343 | INFO | Flex + export -> 64 articles
+2026-07-23 01:42:03,343 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Flex%22%20import
+2026-07-23 01:42:03,928 | INFO | Flex + import -> 51 articles
+2026-07-23 01:42:03,928 | INFO | Flex + import -> 51 articles
+2026-07-23 01:42:03,928 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Flex%22%20semiconductor
+2026-07-23 01:42:04,295 | INFO | Flex + semiconductor -> 63 articles
+2026-07-23 01:42:04,295 | INFO | Flex + semiconductor -> 63 articles
+2026-07-23 01:42:04,295 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Flex%22%20acquisition
+2026-07-23 01:42:04,759 | INFO | Flex + acquisition -> 100 articles
+2026-07-23 01:42:04,759 | INFO | Flex + acquisition -> 100 articles
+2026-07-23 01:42:04,759 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Flex%22%20outsourcing
+2026-07-23 01:42:05,169 | INFO | Flex + outsourcing -> 53 articles
+2026-07-23 01:42:05,169 | INFO | Flex + outsourcing -> 53 articles
+2026-07-23 01:42:05,171 | INFO | Google News Collection Completed
+2026-07-23 01:42:05,171 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Jabil%22%20factory%20closure
+2026-07-23 01:42:05,633 | INFO | Jabil + factory closure -> 49 articles
+2026-07-23 01:42:05,633 | INFO | Jabil + factory closure -> 49 articles
+2026-07-23 01:42:05,633 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Jabil%22%20strike
+2026-07-23 01:42:06,145 | INFO | Jabil + strike -> 17 articles
+2026-07-23 01:42:06,145 | INFO | Jabil + strike -> 17 articles
+2026-07-23 01:42:06,146 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Jabil%22%20plant%20expansion
+2026-07-23 01:42:06,635 | INFO | Jabil + plant expansion -> 50 articles
+2026-07-23 01:42:06,635 | INFO | Jabil + plant expansion -> 50 articles
+2026-07-23 01:42:06,637 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Jabil%22%20layoffs
+2026-07-23 01:42:06,952 | INFO | Jabil + layoffs -> 37 articles
+2026-07-23 01:42:06,957 | INFO | Jabil + layoffs -> 37 articles
+2026-07-23 01:42:06,957 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Jabil%22%20bankruptcy
+2026-07-23 01:42:07,204 | INFO | Jabil + bankruptcy -> 13 articles
+2026-07-23 01:42:07,204 | INFO | Jabil + bankruptcy -> 13 articles
+2026-07-23 01:42:07,206 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Jabil%22%20investment
+2026-07-23 01:42:07,655 | INFO | Jabil + investment -> 100 articles
+2026-07-23 01:42:07,664 | INFO | Jabil + investment -> 100 articles
+2026-07-23 01:42:07,664 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Jabil%22%20supplier
+2026-07-23 01:42:08,107 | INFO | Jabil + supplier -> 66 articles
+2026-07-23 01:42:08,107 | INFO | Jabil + supplier -> 66 articles
+2026-07-23 01:42:08,107 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Jabil%22%20export
+2026-07-23 01:42:08,455 | INFO | Jabil + export -> 33 articles
+2026-07-23 01:42:08,455 | INFO | Jabil + export -> 33 articles
+2026-07-23 01:42:08,455 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Jabil%22%20import
+2026-07-23 01:42:09,050 | INFO | Jabil + import -> 22 articles
+2026-07-23 01:42:09,050 | INFO | Jabil + import -> 22 articles
+2026-07-23 01:42:09,052 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Jabil%22%20semiconductor
+2026-07-23 01:42:09,386 | INFO | Jabil + semiconductor -> 51 articles
+2026-07-23 01:42:09,387 | INFO | Jabil + semiconductor -> 51 articles
+2026-07-23 01:42:09,387 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Jabil%22%20acquisition
+2026-07-23 01:42:09,779 | INFO | Jabil + acquisition -> 98 articles
+2026-07-23 01:42:09,779 | INFO | Jabil + acquisition -> 98 articles
+2026-07-23 01:42:09,779 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Jabil%22%20outsourcing
+2026-07-23 01:42:10,101 | INFO | Jabil + outsourcing -> 35 articles
+2026-07-23 01:42:10,101 | INFO | Jabil + outsourcing -> 35 articles
+2026-07-23 01:42:10,101 | INFO | Google News Collection Completed
+2026-07-23 01:42:10,101 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Kaynes%22%20factory%20closure
+2026-07-23 01:42:10,646 | INFO | Kaynes + factory closure -> 52 articles
+2026-07-23 01:42:10,646 | INFO | Kaynes + factory closure -> 52 articles
+2026-07-23 01:42:10,646 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Kaynes%22%20strike
+2026-07-23 01:42:10,998 | INFO | Kaynes + strike -> 16 articles
+2026-07-23 01:42:10,998 | INFO | Kaynes + strike -> 16 articles
+2026-07-23 01:42:10,998 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Kaynes%22%20plant%20expansion
+2026-07-23 01:42:11,389 | INFO | Kaynes + plant expansion -> 51 articles
+2026-07-23 01:42:11,389 | INFO | Kaynes + plant expansion -> 51 articles
+2026-07-23 01:42:11,399 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Kaynes%22%20layoffs
+2026-07-23 01:42:11,766 | INFO | Kaynes + layoffs -> 5 articles
+2026-07-23 01:42:11,768 | INFO | Kaynes + layoffs -> 5 articles
+2026-07-23 01:42:11,768 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Kaynes%22%20bankruptcy
+2026-07-23 01:42:12,060 | INFO | Kaynes + bankruptcy -> 1 articles
+2026-07-23 01:42:12,060 | INFO | Kaynes + bankruptcy -> 1 articles
+2026-07-23 01:42:12,060 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Kaynes%22%20investment
+2026-07-23 01:42:12,512 | INFO | Kaynes + investment -> 100 articles
+2026-07-23 01:42:12,512 | INFO | Kaynes + investment -> 100 articles
+2026-07-23 01:42:12,512 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Kaynes%22%20supplier
+2026-07-23 01:42:12,853 | INFO | Kaynes + supplier -> 49 articles
+2026-07-23 01:42:12,853 | INFO | Kaynes + supplier -> 49 articles
+2026-07-23 01:42:12,853 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Kaynes%22%20export
+2026-07-23 01:42:13,285 | INFO | Kaynes + export -> 57 articles
+2026-07-23 01:42:13,285 | INFO | Kaynes + export -> 57 articles
+2026-07-23 01:42:13,285 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Kaynes%22%20import
+2026-07-23 01:42:13,707 | INFO | Kaynes + import -> 56 articles
+2026-07-23 01:42:13,707 | INFO | Kaynes + import -> 56 articles
+2026-07-23 01:42:13,707 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Kaynes%22%20semiconductor
+2026-07-23 01:42:14,247 | INFO | Kaynes + semiconductor -> 100 articles
+2026-07-23 01:42:14,247 | INFO | Kaynes + semiconductor -> 100 articles
+2026-07-23 01:42:14,254 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Kaynes%22%20acquisition
+2026-07-23 01:42:14,610 | INFO | Kaynes + acquisition -> 52 articles
+2026-07-23 01:42:14,610 | INFO | Kaynes + acquisition -> 52 articles
+2026-07-23 01:42:14,610 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Kaynes%22%20outsourcing
+2026-07-23 01:42:14,991 | INFO | Kaynes + outsourcing -> 49 articles
+2026-07-23 01:42:14,991 | INFO | Kaynes + outsourcing -> 49 articles
+2026-07-23 01:42:14,991 | INFO | Google News Collection Completed
+2026-07-23 01:42:15,001 | INFO | Module-1 completed successfully
+2026-07-23 12:05:48,677 | INFO | Starting Online News Agent
+2026-07-23 12:05:48,682 | INFO | Loading configuration...
+2026-07-23 12:05:48,691 | INFO | 3 competitors loaded
+2026-07-23 12:05:48,692 | INFO | 12 keywords loaded
+2026-07-23 12:05:48,692 | INFO | 5 sources configured
+2026-07-23 12:05:48,704 | INFO | Starting Google News Collection
+2026-07-23 12:05:48,705 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Flex%22%20factory%20closure
+2026-07-23 12:05:50,025 | INFO | Flex + factory closure -> 56 articles
+2026-07-23 12:05:50,025 | INFO | Flex + factory closure -> 56 articles
+2026-07-23 12:05:50,026 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Flex%22%20strike
+2026-07-23 12:05:50,960 | INFO | Flex + strike -> 72 articles
+2026-07-23 12:05:50,960 | INFO | Flex + strike -> 72 articles
+2026-07-23 12:05:50,961 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Flex%22%20plant%20expansion
+2026-07-23 12:05:51,858 | INFO | Flex + plant expansion -> 64 articles
+2026-07-23 12:05:51,858 | INFO | Flex + plant expansion -> 64 articles
+2026-07-23 12:05:51,859 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Flex%22%20layoffs
+2026-07-23 12:05:52,832 | INFO | Flex + layoffs -> 62 articles
+2026-07-23 12:05:52,832 | INFO | Flex + layoffs -> 62 articles
+2026-07-23 12:05:52,832 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Flex%22%20bankruptcy
+2026-07-23 12:05:53,657 | INFO | Flex + bankruptcy -> 60 articles
+2026-07-23 12:05:53,658 | INFO | Flex + bankruptcy -> 60 articles
+2026-07-23 12:05:53,658 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Flex%22%20investment
+2026-07-23 12:05:54,761 | INFO | Flex + investment -> 100 articles
+2026-07-23 12:05:54,761 | INFO | Flex + investment -> 100 articles
+2026-07-23 12:05:54,762 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Flex%22%20supplier
+2026-07-23 12:05:55,779 | INFO | Flex + supplier -> 68 articles
+2026-07-23 12:05:55,779 | INFO | Flex + supplier -> 68 articles
+2026-07-23 12:05:55,781 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Flex%22%20export
+2026-07-23 12:05:56,533 | INFO | Flex + export -> 65 articles
+2026-07-23 12:05:56,534 | INFO | Flex + export -> 65 articles
+2026-07-23 12:05:56,534 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Flex%22%20import
+2026-07-23 12:05:57,183 | INFO | Flex + import -> 51 articles
+2026-07-23 12:05:57,183 | INFO | Flex + import -> 51 articles
+2026-07-23 12:05:57,184 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Flex%22%20semiconductor
+2026-07-23 12:05:57,986 | INFO | Flex + semiconductor -> 63 articles
+2026-07-23 12:05:57,986 | INFO | Flex + semiconductor -> 63 articles
+2026-07-23 12:05:57,986 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Flex%22%20acquisition
+2026-07-23 12:05:58,845 | INFO | Flex + acquisition -> 100 articles
+2026-07-23 12:05:58,845 | INFO | Flex + acquisition -> 100 articles
+2026-07-23 12:05:58,846 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Flex%22%20outsourcing
+2026-07-23 12:05:59,378 | INFO | Flex + outsourcing -> 54 articles
+2026-07-23 12:05:59,378 | INFO | Flex + outsourcing -> 54 articles
+2026-07-23 12:05:59,378 | INFO | Google News Collection Completed
+2026-07-23 12:05:59,379 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Jabil%22%20factory%20closure
+2026-07-23 12:06:00,092 | INFO | Jabil + factory closure -> 49 articles
+2026-07-23 12:06:00,092 | INFO | Jabil + factory closure -> 49 articles
+2026-07-23 12:06:00,093 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Jabil%22%20strike
+2026-07-23 12:06:00,706 | INFO | Jabil + strike -> 18 articles
+2026-07-23 12:06:00,706 | INFO | Jabil + strike -> 18 articles
+2026-07-23 12:06:00,706 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Jabil%22%20plant%20expansion
+2026-07-23 12:06:01,274 | INFO | Jabil + plant expansion -> 51 articles
+2026-07-23 12:06:01,274 | INFO | Jabil + plant expansion -> 51 articles
+2026-07-23 12:06:01,275 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Jabil%22%20layoffs
+2026-07-23 12:06:01,719 | INFO | Jabil + layoffs -> 36 articles
+2026-07-23 12:06:01,719 | INFO | Jabil + layoffs -> 36 articles
+2026-07-23 12:06:01,719 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Jabil%22%20bankruptcy
+2026-07-23 12:06:02,093 | INFO | Jabil + bankruptcy -> 12 articles
+2026-07-23 12:06:02,094 | INFO | Jabil + bankruptcy -> 12 articles
+2026-07-23 12:06:02,094 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Jabil%22%20investment
+2026-07-23 12:06:02,943 | INFO | Jabil + investment -> 100 articles
+2026-07-23 12:06:02,943 | INFO | Jabil + investment -> 100 articles
+2026-07-23 12:06:02,945 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Jabil%22%20supplier
+2026-07-23 12:06:03,504 | INFO | Jabil + supplier -> 66 articles
+2026-07-23 12:06:03,504 | INFO | Jabil + supplier -> 66 articles
+2026-07-23 12:06:03,504 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Jabil%22%20export
+2026-07-23 12:06:04,003 | INFO | Jabil + export -> 33 articles
+2026-07-23 12:06:04,003 | INFO | Jabil + export -> 33 articles
+2026-07-23 12:06:04,004 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Jabil%22%20import
+2026-07-23 12:06:04,643 | INFO | Jabil + import -> 23 articles
+2026-07-23 12:06:04,644 | INFO | Jabil + import -> 23 articles
+2026-07-23 12:06:04,645 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Jabil%22%20semiconductor
+2026-07-23 12:06:05,159 | INFO | Jabil + semiconductor -> 51 articles
+2026-07-23 12:06:05,159 | INFO | Jabil + semiconductor -> 51 articles
+2026-07-23 12:06:05,160 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Jabil%22%20acquisition
+2026-07-23 12:06:05,860 | INFO | Jabil + acquisition -> 98 articles
+2026-07-23 12:06:05,860 | INFO | Jabil + acquisition -> 98 articles
+2026-07-23 12:06:05,861 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Jabil%22%20outsourcing
+2026-07-23 12:06:06,297 | INFO | Jabil + outsourcing -> 35 articles
+2026-07-23 12:06:06,297 | INFO | Jabil + outsourcing -> 35 articles
+2026-07-23 12:06:06,297 | INFO | Google News Collection Completed
+2026-07-23 12:06:06,298 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Kaynes%22%20factory%20closure
+2026-07-23 12:06:06,871 | INFO | Kaynes + factory closure -> 51 articles
+2026-07-23 12:06:06,871 | INFO | Kaynes + factory closure -> 51 articles
+2026-07-23 12:06:06,872 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Kaynes%22%20strike
+2026-07-23 12:06:07,278 | INFO | Kaynes + strike -> 16 articles
+2026-07-23 12:06:07,278 | INFO | Kaynes + strike -> 16 articles
+2026-07-23 12:06:07,279 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Kaynes%22%20plant%20expansion
+2026-07-23 12:06:07,767 | INFO | Kaynes + plant expansion -> 50 articles
+2026-07-23 12:06:07,767 | INFO | Kaynes + plant expansion -> 50 articles
+2026-07-23 12:06:07,769 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Kaynes%22%20layoffs
+2026-07-23 12:06:08,092 | INFO | Kaynes + layoffs -> 5 articles
+2026-07-23 12:06:08,092 | INFO | Kaynes + layoffs -> 5 articles
+2026-07-23 12:06:08,092 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Kaynes%22%20bankruptcy
+2026-07-23 12:06:08,372 | INFO | Kaynes + bankruptcy -> 1 articles
+2026-07-23 12:06:08,372 | INFO | Kaynes + bankruptcy -> 1 articles
+2026-07-23 12:06:08,372 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Kaynes%22%20investment
+2026-07-23 12:06:09,085 | INFO | Kaynes + investment -> 100 articles
+2026-07-23 12:06:09,085 | INFO | Kaynes + investment -> 100 articles
+2026-07-23 12:06:09,085 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Kaynes%22%20supplier
+2026-07-23 12:06:09,692 | INFO | Kaynes + supplier -> 49 articles
+2026-07-23 12:06:09,692 | INFO | Kaynes + supplier -> 49 articles
+2026-07-23 12:06:09,692 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Kaynes%22%20export
+2026-07-23 12:06:10,218 | INFO | Kaynes + export -> 57 articles
+2026-07-23 12:06:10,218 | INFO | Kaynes + export -> 57 articles
+2026-07-23 12:06:10,219 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Kaynes%22%20import
+2026-07-23 12:06:10,756 | INFO | Kaynes + import -> 56 articles
+2026-07-23 12:06:10,756 | INFO | Kaynes + import -> 56 articles
+2026-07-23 12:06:10,757 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Kaynes%22%20semiconductor
+2026-07-23 12:06:11,530 | INFO | Kaynes + semiconductor -> 100 articles
+2026-07-23 12:06:11,530 | INFO | Kaynes + semiconductor -> 100 articles
+2026-07-23 12:06:11,531 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Kaynes%22%20acquisition
+2026-07-23 12:06:12,206 | INFO | Kaynes + acquisition -> 52 articles
+2026-07-23 12:06:12,206 | INFO | Kaynes + acquisition -> 52 articles
+2026-07-23 12:06:12,208 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Kaynes%22%20outsourcing
+2026-07-23 12:06:12,726 | INFO | Kaynes + outsourcing -> 49 articles
+2026-07-23 12:06:12,726 | INFO | Kaynes + outsourcing -> 49 articles
+2026-07-23 12:06:12,726 | INFO | Google News Collection Completed
+2026-07-23 12:09:16,232 | INFO | Starting Online News Agent
+2026-07-23 12:09:16,232 | INFO | Loading configuration...
+2026-07-23 12:09:16,232 | INFO | 3 competitors loaded
+2026-07-23 12:09:16,232 | INFO | 12 keywords loaded
+2026-07-23 12:09:16,232 | INFO | 5 sources configured
+2026-07-23 12:09:16,244 | INFO | Starting Google News Collection
+2026-07-23 12:09:16,245 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Flex%22%20factory%20closure
+2026-07-23 12:09:17,129 | INFO | Flex + factory closure -> 56 articles
+2026-07-23 12:09:17,129 | INFO | Flex + factory closure -> 56 articles
+2026-07-23 12:09:17,129 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Flex%22%20strike
+2026-07-23 12:09:17,764 | INFO | Flex + strike -> 72 articles
+2026-07-23 12:09:17,764 | INFO | Flex + strike -> 72 articles
+2026-07-23 12:09:17,764 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Flex%22%20plant%20expansion
+2026-07-23 12:09:18,490 | INFO | Flex + plant expansion -> 64 articles
+2026-07-23 12:09:18,490 | INFO | Flex + plant expansion -> 64 articles
+2026-07-23 12:09:18,490 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Flex%22%20layoffs
+2026-07-23 12:09:19,148 | INFO | Flex + layoffs -> 62 articles
+2026-07-23 12:09:19,148 | INFO | Flex + layoffs -> 62 articles
+2026-07-23 12:09:19,148 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Flex%22%20bankruptcy
+2026-07-23 12:09:19,731 | INFO | Flex + bankruptcy -> 60 articles
+2026-07-23 12:09:19,731 | INFO | Flex + bankruptcy -> 60 articles
+2026-07-23 12:09:19,731 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Flex%22%20investment
+2026-07-23 12:09:20,588 | INFO | Flex + investment -> 100 articles
+2026-07-23 12:09:20,588 | INFO | Flex + investment -> 100 articles
+2026-07-23 12:09:20,588 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Flex%22%20supplier
+2026-07-23 12:09:21,248 | INFO | Flex + supplier -> 68 articles
+2026-07-23 12:09:21,248 | INFO | Flex + supplier -> 68 articles
+2026-07-23 12:09:21,248 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Flex%22%20export
+2026-07-23 12:09:21,819 | INFO | Flex + export -> 65 articles
+2026-07-23 12:09:21,819 | INFO | Flex + export -> 65 articles
+2026-07-23 12:09:21,819 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Flex%22%20import
+2026-07-23 12:09:22,282 | INFO | Flex + import -> 51 articles
+2026-07-23 12:09:22,282 | INFO | Flex + import -> 51 articles
+2026-07-23 12:09:22,282 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Flex%22%20semiconductor
+2026-07-23 12:09:22,774 | INFO | Flex + semiconductor -> 63 articles
+2026-07-23 12:09:22,774 | INFO | Flex + semiconductor -> 63 articles
+2026-07-23 12:09:22,774 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Flex%22%20acquisition
+2026-07-23 12:09:23,337 | INFO | Flex + acquisition -> 100 articles
+2026-07-23 12:09:23,337 | INFO | Flex + acquisition -> 100 articles
+2026-07-23 12:09:23,337 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Flex%22%20outsourcing
+2026-07-23 12:09:23,815 | INFO | Flex + outsourcing -> 53 articles
+2026-07-23 12:09:23,817 | INFO | Flex + outsourcing -> 53 articles
+2026-07-23 12:09:23,817 | INFO | Google News Collection Completed
+2026-07-23 12:09:23,817 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Jabil%22%20factory%20closure
+2026-07-23 12:09:24,231 | INFO | Jabil + factory closure -> 49 articles
+2026-07-23 12:09:24,231 | INFO | Jabil + factory closure -> 49 articles
+2026-07-23 12:09:24,231 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Jabil%22%20strike
+2026-07-23 12:09:24,602 | INFO | Jabil + strike -> 18 articles
+2026-07-23 12:09:24,602 | INFO | Jabil + strike -> 18 articles
+2026-07-23 12:09:24,602 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Jabil%22%20plant%20expansion
+2026-07-23 12:09:25,073 | INFO | Jabil + plant expansion -> 51 articles
+2026-07-23 12:09:25,075 | INFO | Jabil + plant expansion -> 51 articles
+2026-07-23 12:09:25,075 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Jabil%22%20layoffs
+2026-07-23 12:09:25,433 | INFO | Jabil + layoffs -> 36 articles
+2026-07-23 12:09:25,433 | INFO | Jabil + layoffs -> 36 articles
+2026-07-23 12:09:25,433 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Jabil%22%20bankruptcy
+2026-07-23 12:09:25,866 | INFO | Jabil + bankruptcy -> 12 articles
+2026-07-23 12:09:25,866 | INFO | Jabil + bankruptcy -> 12 articles
+2026-07-23 12:09:25,866 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Jabil%22%20investment
+2026-07-23 12:09:26,469 | INFO | Jabil + investment -> 100 articles
+2026-07-23 12:09:26,469 | INFO | Jabil + investment -> 100 articles
+2026-07-23 12:09:26,469 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Jabil%22%20supplier
+2026-07-23 12:09:27,016 | INFO | Jabil + supplier -> 66 articles
+2026-07-23 12:09:27,016 | INFO | Jabil + supplier -> 66 articles
+2026-07-23 12:09:27,016 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Jabil%22%20export
+2026-07-23 12:09:27,515 | INFO | Jabil + export -> 33 articles
+2026-07-23 12:09:27,515 | INFO | Jabil + export -> 33 articles
+2026-07-23 12:09:27,515 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Jabil%22%20import
+2026-07-23 12:09:27,995 | INFO | Jabil + import -> 23 articles
+2026-07-23 12:09:27,995 | INFO | Jabil + import -> 23 articles
+2026-07-23 12:09:27,996 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Jabil%22%20semiconductor
+2026-07-23 12:09:28,532 | INFO | Jabil + semiconductor -> 51 articles
+2026-07-23 12:09:28,532 | INFO | Jabil + semiconductor -> 51 articles
+2026-07-23 12:09:28,533 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Jabil%22%20acquisition
+2026-07-23 12:09:29,044 | INFO | Jabil + acquisition -> 98 articles
+2026-07-23 12:09:29,044 | INFO | Jabil + acquisition -> 98 articles
+2026-07-23 12:09:29,053 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Jabil%22%20outsourcing
+2026-07-23 12:09:29,527 | INFO | Jabil + outsourcing -> 35 articles
+2026-07-23 12:09:29,527 | INFO | Jabil + outsourcing -> 35 articles
+2026-07-23 12:09:29,527 | INFO | Google News Collection Completed
+2026-07-23 12:09:29,527 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Kaynes%22%20factory%20closure
+2026-07-23 12:09:30,062 | INFO | Kaynes + factory closure -> 51 articles
+2026-07-23 12:09:30,062 | INFO | Kaynes + factory closure -> 51 articles
+2026-07-23 12:09:30,062 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Kaynes%22%20strike
+2026-07-23 12:09:30,371 | INFO | Kaynes + strike -> 16 articles
+2026-07-23 12:09:30,371 | INFO | Kaynes + strike -> 16 articles
+2026-07-23 12:09:30,371 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Kaynes%22%20plant%20expansion
+2026-07-23 12:09:30,755 | INFO | Kaynes + plant expansion -> 50 articles
+2026-07-23 12:09:30,755 | INFO | Kaynes + plant expansion -> 50 articles
+2026-07-23 12:09:30,755 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Kaynes%22%20layoffs
+2026-07-23 12:09:31,166 | INFO | Kaynes + layoffs -> 5 articles
+2026-07-23 12:09:31,166 | INFO | Kaynes + layoffs -> 5 articles
+2026-07-23 12:09:31,166 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Kaynes%22%20bankruptcy
+2026-07-23 12:09:31,444 | INFO | Kaynes + bankruptcy -> 1 articles
+2026-07-23 12:09:31,444 | INFO | Kaynes + bankruptcy -> 1 articles
+2026-07-23 12:09:31,445 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Kaynes%22%20investment
+2026-07-23 12:09:31,991 | INFO | Kaynes + investment -> 100 articles
+2026-07-23 12:09:31,991 | INFO | Kaynes + investment -> 100 articles
+2026-07-23 12:09:31,991 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Kaynes%22%20supplier
+2026-07-23 12:09:32,367 | INFO | Kaynes + supplier -> 49 articles
+2026-07-23 12:09:32,367 | INFO | Kaynes + supplier -> 49 articles
+2026-07-23 12:09:32,367 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Kaynes%22%20export
+2026-07-23 12:09:32,800 | INFO | Kaynes + export -> 57 articles
+2026-07-23 12:09:32,800 | INFO | Kaynes + export -> 57 articles
+2026-07-23 12:09:32,800 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Kaynes%22%20import
+2026-07-23 12:09:33,286 | INFO | Kaynes + import -> 56 articles
+2026-07-23 12:09:33,286 | INFO | Kaynes + import -> 56 articles
+2026-07-23 12:09:33,286 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Kaynes%22%20semiconductor
+2026-07-23 12:09:33,929 | INFO | Kaynes + semiconductor -> 100 articles
+2026-07-23 12:09:33,929 | INFO | Kaynes + semiconductor -> 100 articles
+2026-07-23 12:09:33,929 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Kaynes%22%20acquisition
+2026-07-23 12:09:34,316 | INFO | Kaynes + acquisition -> 52 articles
+2026-07-23 12:09:34,316 | INFO | Kaynes + acquisition -> 52 articles
+2026-07-23 12:09:34,316 | INFO | Google RSS : https://news.google.com/rss/search?q=%22Kaynes%22%20outsourcing
+2026-07-23 12:09:34,823 | INFO | Kaynes + outsourcing -> 49 articles
+2026-07-23 12:09:34,823 | INFO | Kaynes + outsourcing -> 49 articles
+2026-07-23 12:09:34,823 | INFO | Google News Collection Completed
+2026-07-23 12:09:35,614 | INFO | HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 400 Bad Request"
